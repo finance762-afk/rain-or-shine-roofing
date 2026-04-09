@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rainorshine-roofing.com/sitemap.xml
+Sitemap: https://rainorshine-roofing.com/sitemap-images.xml
