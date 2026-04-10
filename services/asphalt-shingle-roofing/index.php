@@ -3,7 +3,7 @@
  * Asphalt Shingle Roofing — Rain or Shine Roofing
  */
 $pageTitle       = "Asphalt Shingle Roofing Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Asphalt shingle roof installation and repair in Springfield, OR. Architectural and 3-tab shingles with 25-50 year warranties. Built for Oregon's wet climate. Call (541) 606-3306.";
+$pageDescription = "Malarkey architectural laminated fiberglass shingle installation in Springfield, OR. Built-in Scotchgard moss protection. Built for Oregon's wet climate. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/asphalt-shingle-roofing";
 $ogImage         = "https://i.imgur.com/yX4DOpF.png";
 $currentPage     = "asphalt-shingle-roofing";
@@ -51,7 +51,7 @@ $schemaMarkup = <<<JSON
           "name": "How long do asphalt shingles last in Oregon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Architectural asphalt shingles typically last 25 to 30 years in Oregon with proper ventilation and periodic moss treatment. Lower-grade 3-tab shingles last 15 to 20 years. Roofs under heavy tree cover, on the north side of the Coast Range, or in year-round shade tend to see faster wear from moss growth and moisture."
+            "text": "Architectural asphalt shingles typically last 25 to 30 years in Oregon with proper ventilation and periodic moss treatment. Roofs under heavy tree cover, on the north side of the Coast Range, or in year-round shade tend to see faster wear from moss growth and moisture."
           }
         },
         {
@@ -59,7 +59,7 @@ $schemaMarkup = <<<JSON
           "name": "Are architectural shingles worth the extra cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "For most Oregon homes, yes. Architectural (also called dimensional or laminate) shingles cost roughly 20 to 30 percent more than 3-tab, but they last longer, have better wind ratings, carry stronger warranties, and add curb appeal. On homes you plan to live in for 10+ years, the upgrade almost always pays off."
+            "text": "For most Oregon homes, yes. Architectural (also called dimensional or laminate) shingles cost roughly 20 to 30 percent more than basic shingles, but they last longer, have better wind ratings, and add curb appeal. On homes you plan to live in for 10+ years, the upgrade almost always pays off."
           }
         },
         {
@@ -67,7 +67,7 @@ $schemaMarkup = <<<JSON
           "name": "What causes moss on Oregon asphalt shingle roofs?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Moss grows where shingles stay damp and shaded — under trees, on north-facing slopes, and in areas with poor airflow. It traps moisture against the shingle mat, which breaks down granules and shortens roof life. Zinc strips at the ridge, regular cleaning, and proper ventilation all help. Rain or Shine can install copper or zinc strips during a re-roof as preventive protection."
+            "text": "Moss grows where shingles stay damp and shaded — under trees, on north-facing slopes, and in areas with poor airflow. It traps moisture against the shingle mat, which breaks down granules and shortens roof life. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth, reducing the need for chemical treatments. Proper ventilation and tree-trimming also help."
           }
         }
       ]
@@ -85,9 +85,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== PAGE HERO ========== -->
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/yX4DOpF.png');">
     <div class="page-hero-inner">
-      <span class="eyebrow-label">Architectural &amp; 3-Tab Shingles</span>
+      <span class="eyebrow-label">Malarkey Architectural Shingles</span>
       <h1>Asphalt Shingle Roofing in Springfield, OR</h1>
-      <p class="lead">The workhorse roofing material of the Pacific Northwest &mdash; installed correctly, with proper underlayment, flashing, and ventilation for Oregon&rsquo;s wet winters.</p>
+      <p class="lead">Malarkey limited lifetime architectural laminated fiberglass shingles with built-in Scotchgard moss protection &mdash; installed correctly, with proper underlayment, flashing, and ventilation for Oregon&rsquo;s wet winters.</p>
       <div class="page-hero-ctas">
         <a href="/contact" class="btn-primary">
           <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
@@ -119,12 +119,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>How Much Does an Asphalt Shingle Roof Cost in Oregon?</h2>
-        <p>Asphalt shingle roof replacements in Springfield, Oregon typically run <strong>$4 to $7 per square foot</strong> installed &mdash; or roughly <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. Architectural shingles cost about 20&ndash;30% more than 3-tab but last longer and carry stronger warranties. Rain or Shine Roofing provides asphalt shingle roof installation and repair for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area.</p>
+        <p>Asphalt shingle roof replacements in Springfield, Oregon typically run <strong>$4 to $7 per square foot</strong> installed &mdash; or roughly <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. Rain or Shine Roofing installs Malarkey limited lifetime architectural laminated fiberglass shingles exclusively for pitched residential roofs. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth &mdash; a critical advantage in Oregon&rsquo;s damp climate.</p>
 
-        <div class="answer-block">
-          <h3>What warranty comes with a new shingle roof?</h3>
-          <p>Manufacturer warranties on asphalt shingles typically range from <strong>25 years on 3-tab</strong> to <strong>50 years or lifetime on premium architectural</strong> lines. These warranties cover the shingles themselves &mdash; the installer warranty (on labor and workmanship) is separate. Rain or Shine backs every install with a written workmanship warranty.</p>
-        </div>
       </div>
     </div>
   </section>
@@ -138,42 +134,40 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <h2 class="section-title">Why Asphalt Still Dominates Pacific NW Roofs</h2>
-          <p>Metal, cedar, and tile all have their place &mdash; but for most homes in Springfield, Eugene, and the I-5 corridor, asphalt shingles remain the right answer. They&rsquo;re affordable, come in dozens of colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
-          <p>The difference between a shingle roof that lasts 15 years and one that lasts 30 isn&rsquo;t the shingle &mdash; it&rsquo;s the install. Flashing details, underlayment, ventilation, and nailing pattern all determine how the roof ages. Rain or Shine installs every shingle roof to manufacturer spec, not the shortcut version.</p>
+          <p>For most homes in Springfield, Eugene, and the I-5 corridor, Malarkey architectural laminated fiberglass shingles are the right answer. They&rsquo;re affordable, come in dozens of colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
+          <p>The difference between a shingle roof that lasts 15 years and one that lasts 30 isn&rsquo;t the shingle &mdash; it&rsquo;s the install. Flashing details, underlayment, ventilation, and nailing pattern all determine how the roof ages. Rain or Shine installs every Malarkey shingle roof to manufacturer spec, not the shortcut version.</p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ========== COMPARISON GRID ========== -->
+  <!-- ========== MALARKEY FEATURES ========== -->
   <section>
     <div class="container">
       <div class="section-header" data-animate>
-        <h2>3-Tab vs. Architectural Shingles</h2>
-        <p>The two main residential asphalt shingle categories &mdash; how they compare for Oregon homes.</p>
+        <h2>Why Malarkey Shingles for Oregon Roofs?</h2>
+        <p>Purpose-built for the Pacific Northwest &mdash; here&rsquo;s what sets Malarkey apart.</p>
       </div>
-      <div class="compare-grid" data-animate>
-        <div class="compare-card">
-          <h3>3-Tab Shingles</h3>
-          <ul>
-            <li>Flat, uniform single-layer profile</li>
-            <li>Lower upfront cost &mdash; budget-friendly</li>
-            <li>15&ndash;20 year typical lifespan in Oregon</li>
-            <li>60&ndash;70 mph wind ratings</li>
-            <li>25 year manufacturer warranty</li>
-            <li>Limited color and style options</li>
-          </ul>
+      <div class="benefit-grid" data-animate>
+        <div class="benefit-item">
+          <span class="benefit-icon"><i data-lucide="leaf" width="24" height="24" aria-hidden="true"></i></span>
+          <h3>Built-In Scotchgard Moss Protection</h3>
+          <p>Malarkey shingles include 3M Scotchgard protector that resists moss, algae, and blue-green staining &mdash; no extra chemical treatments needed.</p>
         </div>
-        <div class="compare-card">
-          <h3>Architectural (Dimensional)</h3>
-          <ul>
-            <li>Multi-layer laminated, textured profile</li>
-            <li>Premium look &mdash; better curb appeal</li>
-            <li>25&ndash;30+ year typical lifespan in Oregon</li>
-            <li>110&ndash;130 mph wind ratings</li>
-            <li>30&ndash;50 year or lifetime warranty</li>
-            <li>Dozens of colors and textured patterns</li>
-          </ul>
+        <div class="benefit-item">
+          <span class="benefit-icon"><i data-lucide="layers" width="24" height="24" aria-hidden="true"></i></span>
+          <h3>Architectural Laminated Fiberglass</h3>
+          <p>Multi-layer laminated construction delivers a dimensional, textured profile with superior wind ratings and long-term durability in Oregon&rsquo;s wet climate.</p>
+        </div>
+        <div class="benefit-item">
+          <span class="benefit-icon"><i data-lucide="wind" width="24" height="24" aria-hidden="true"></i></span>
+          <h3>High Wind Resistance</h3>
+          <p>Rated for 110&ndash;130 mph wind zones, making Malarkey shingles ideal for Oregon Coast and exposed ridgeline installations.</p>
+        </div>
+        <div class="benefit-item">
+          <span class="benefit-icon"><i data-lucide="palette" width="24" height="24" aria-hidden="true"></i></span>
+          <h3>Color and Style Options</h3>
+          <p>Dozens of color blends and textured profiles to match any Oregon home &mdash; from classic earth tones to modern grays and weathered wood looks.</p>
         </div>
       </div>
     </div>
@@ -221,19 +215,19 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>How long do asphalt shingles last in Oregon?</summary>
           <div class="faq-answer">
-            Architectural asphalt shingles typically last <strong>25 to 30 years</strong> in Oregon with proper ventilation and periodic moss treatment. Lower-grade 3-tab shingles last 15 to 20 years. Roofs under heavy tree cover, on the north side of the Coast Range, or in year-round shade tend to see faster wear from moss growth and moisture.
+            Architectural asphalt shingles typically last <strong>25 to 30 years</strong> in Oregon with proper ventilation and periodic moss treatment. Roofs under heavy tree cover, on the north side of the Coast Range, or in year-round shade tend to see faster wear from moss growth and moisture.
           </div>
         </details>
         <details class="faq-item">
           <summary>Are architectural shingles worth the extra cost?</summary>
           <div class="faq-answer">
-            For most Oregon homes, yes. Architectural (also called dimensional or laminate) shingles cost roughly <strong>20 to 30 percent more</strong> than 3-tab, but they last longer, have better wind ratings, carry stronger warranties, and add curb appeal. On homes you plan to live in for 10+ years, the upgrade almost always pays off.
+            For most Oregon homes, yes. Architectural laminated shingles like Malarkey cost roughly <strong>20 to 30 percent more</strong> than basic shingles, but they last longer, have better wind ratings, and add curb appeal. On homes you plan to live in for 10+ years, the upgrade almost always pays off.
           </div>
         </details>
         <details class="faq-item">
           <summary>What causes moss on Oregon asphalt shingle roofs?</summary>
           <div class="faq-answer">
-            Moss grows where shingles stay damp and shaded &mdash; under trees, on north-facing slopes, and in areas with poor airflow. It traps moisture against the shingle mat, which breaks down granules and shortens roof life. Zinc strips at the ridge, regular cleaning, and proper ventilation all help. Rain or Shine can install copper or zinc strips during a re-roof as preventive protection.
+            Moss grows where shingles stay damp and shaded &mdash; under trees, on north-facing slopes, and in areas with poor airflow. It traps moisture against the shingle mat, which breaks down granules and shortens roof life. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth, reducing the need for chemical treatments. Proper ventilation and tree-trimming also help.
           </div>
         </details>
       </div>
@@ -273,7 +267,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Ready for a New Shingle Roof?</h2>
-    <p>Free on-site inspection, honest recommendation on 3-tab vs architectural, and a written estimate you can take to the bank.</p>
+    <p>Free on-site inspection, honest material recommendation, and a written estimate you can take to the bank.</p>
     <div class="cta-buttons">
       <a href="/contact" class="btn-primary on-dark">
         <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>

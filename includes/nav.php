@@ -15,7 +15,6 @@ $isServiceActive = in_array($currentPage, [
   'tpo-flat-roofing',
   'roof-tear-off-replacement',
   'roof-rot-repair',
-  'seamless-gutters',
 ], true);
 ?>
 <nav class="navbar" aria-label="Main navigation">
@@ -41,7 +40,6 @@ $isServiceActive = in_array($currentPage, [
           <li role="none"><a role="menuitem" href="/services/tpo-flat-roofing">TPO Flat Roofing</a></li>
           <li role="none"><a role="menuitem" href="/services/roof-tear-off-replacement">Roof Tear-Off &amp; Replacement</a></li>
           <li role="none"><a role="menuitem" href="/services/roof-rot-repair">Roof Rot Repair</a></li>
-          <li role="none"><a role="menuitem" href="/services/seamless-gutters">Seamless Gutters</a></li>
         </ul>
       </li>
 

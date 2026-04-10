@@ -51,7 +51,7 @@ $schemaMarkup = <<<JSON
           "name": "What causes roof rot in Oregon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Roof rot in Oregon is almost always caused by trapped moisture — failed flashing, poor attic ventilation, clogged gutters backing water under shingles, or ice dams forming at the eaves in winter. Moss and debris holding water against the shingles accelerates the damage. By the time you see rotted fascia or sagging decking from the ground, moisture has usually been getting in for years."
+            "text": "Roof rot in Oregon is almost always caused by trapped moisture — failed flashing, poor attic ventilation, blocked drainage backing water under shingles, or ice dams forming at the eaves in winter. Moss and debris holding water against the shingles accelerates the damage. By the time you see rotted fascia or sagging decking from the ground, moisture has usually been getting in for years."
           }
         },
         {
@@ -59,7 +59,7 @@ $schemaMarkup = <<<JSON
           "name": "How much does roof rot repair cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Targeted rot repair in Springfield typically runs $500 to $3,500 depending on how much wood needs to be replaced and whether the source (flashing, ventilation, gutters) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts."
+            "text": "Targeted rot repair in Springfield typically runs $500 to $3,500 depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts."
           }
         },
         {
@@ -123,7 +123,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
         <div class="answer-block">
           <h3>What does &ldquo;fixing the source&rdquo; mean?</h3>
-          <p>Cutting out rotted wood and nailing in new sheathing only delays the problem if the original cause is still there. We trace moisture back to its source &mdash; failed step flashing, clogged gutters, inadequate ventilation, or an ice dam pattern &mdash; and fix that first. Otherwise the new wood rots within a few years and you&rsquo;re paying for the same repair twice.</p>
+          <p>Cutting out rotted wood and nailing in new sheathing only delays the problem if the original cause is still there. We trace moisture back to its source &mdash; failed step flashing, blocked drainage, inadequate ventilation, or an ice dam pattern &mdash; and fix that first. Otherwise the new wood rots within a few years and you&rsquo;re paying for the same repair twice.</p>
         </div>
       </div>
     </div>
@@ -144,7 +144,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
               <span class="why-icon"><i data-lucide="cloud-rain" width="22" height="22" aria-hidden="true"></i></span>
               <div>
                 <h4>Eaves and Fascia</h4>
-                <p>Ice dams and clogged gutters push water under the drip edge. Fascia boards and the first row of sheathing take the damage.</p>
+                <p>Ice dams and blocked drainage push water under the drip edge. Fascia boards and the first row of sheathing take the damage.</p>
               </div>
             </li>
             <li>
@@ -195,7 +195,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">3</div>
           <h3>Replace &amp; Waterproof</h3>
-          <p>New framing and sheathing installed, then proper ice and water shield, flashing, and underlayment before roofing goes back on.</p>
+          <p>New framing and &frac12;&Prime; CDX plywood sheathing installed, then proper ice and water shield, flashing, and underlayment before roofing goes back on.</p>
         </div>
         <div class="process-step">
           <div class="process-num">4</div>
@@ -216,13 +216,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What causes roof rot in Oregon?</summary>
           <div class="faq-answer">
-            Roof rot in Oregon is almost always caused by trapped moisture &mdash; failed flashing, poor attic ventilation, clogged gutters backing water under shingles, or ice dams forming at the eaves in winter. Moss and debris holding water against the shingles accelerates the damage. By the time you see rotted fascia or sagging decking from the ground, moisture has usually been getting in for years.
+            Roof rot in Oregon is almost always caused by trapped moisture &mdash; failed flashing, poor attic ventilation, blocked drainage backing water under shingles, or ice dams forming at the eaves in winter. Moss and debris holding water against the shingles accelerates the damage. By the time you see rotted fascia or sagging decking from the ground, moisture has usually been getting in for years.
           </div>
         </details>
         <details class="faq-item">
           <summary>How much does roof rot repair cost?</summary>
           <div class="faq-answer">
-            Targeted rot repair in Springfield typically runs <strong>$500 to $3,500</strong> depending on how much wood needs to be replaced and whether the source (flashing, ventilation, gutters) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts.
+            Targeted rot repair in Springfield typically runs <strong>$500 to $3,500</strong> depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts.
           </div>
         </details>
         <details class="faq-item">
@@ -255,10 +255,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <span>View Details &rarr;</span>
         </div>
       </a>
-      <a href="/services/seamless-gutters" class="related-card">
-        <span class="related-icon"><i data-lucide="droplets" width="22" height="22" aria-hidden="true"></i></span>
+      <a href="/services/asphalt-shingle-roofing" class="related-card">
+        <span class="related-icon"><i data-lucide="layers" width="22" height="22" aria-hidden="true"></i></span>
         <div>
-          <h3>Seamless Gutters</h3>
+          <h3>Asphalt Shingle Roofing</h3>
           <span>View Details &rarr;</span>
         </div>
       </a>

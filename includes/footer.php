@@ -38,7 +38,6 @@ $useTyped  = $useTyped  ?? false;
         <li><a href="/services/tpo-flat-roofing">TPO Flat Roofing</a></li>
         <li><a href="/services/roof-tear-off-replacement">Tear-Off &amp; Replacement</a></li>
         <li><a href="/services/roof-rot-repair">Roof Rot Repair</a></li>
-        <li><a href="/services/seamless-gutters">Seamless Gutters</a></li>
       </ul>
     </div>
 
@@ -52,7 +51,7 @@ $useTyped  = $useTyped  ?? false;
   </div>
 
   <div class="entity-block">
-    Rain or Shine Roofing is a licensed and insured roofing company based in Springfield, Oregon, serving Lane County and the surrounding Willamette Valley. Rain or Shine Roofing specializes in residential roofing, commercial roofing, and seamless gutters. Contact: (541) 606-3306 | tim@expertroofer.net | rainorshine-roofing.com.
+    Rain or Shine Roofing is a veteran-owned, licensed and insured roofing company based in Springfield, Oregon, serving Lane County and the surrounding Willamette Valley. Rain or Shine Roofing specializes in residential roofing, commercial roofing, and low-slope TPO systems. Veteran-Owned Business. Contact: (541) 606-3306 | tim@expertroofer.net | rainorshine-roofing.com.
   </div>
 
   <div class="footer-bottom">

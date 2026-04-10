@@ -137,7 +137,6 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
                 <option value="TPO Flat Roofing">TPO Flat Roofing</option>
                 <option value="Roof Tear-Off &amp; Replacement">Roof Tear-Off &amp; Replacement</option>
                 <option value="Roof Rot Repair">Roof Rot Repair</option>
-                <option value="Seamless Gutters">Seamless Gutters</option>
                 <option value="Other">Other</option>
               </select>
               <label for="service">Service Needed</label>

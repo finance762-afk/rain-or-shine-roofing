@@ -87,7 +87,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="page-hero-inner">
       <span class="eyebrow-label">Flat &amp; Low-Slope Commercial Systems</span>
       <h1>TPO Flat Roofing in Springfield, OR</h1>
-      <p class="lead">Single-ply thermoplastic membrane with heat-welded seams &mdash; the industry standard for flat and low-slope commercial roofs across Oregon.</p>
+      <p class="lead">Single-ply thermoplastic membrane with heat-welded seams &mdash; Tim Davis has spent over 30 years specializing in low-slope systems like this one. The industry standard for flat and low-slope commercial roofs across Oregon.</p>
       <div class="page-hero-ctas">
         <a href="/contact" class="btn-primary">
           <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What TPO Flat Roofing Costs in Oregon</h2>
-        <p>TPO flat roof installations in Springfield, Oregon typically run <strong>$5 to $10 per square foot</strong> installed, including insulation, membrane, flashing, and tear-off. Membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition all affect pricing. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement. Rain or Shine Roofing provides TPO flat roofing for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area, from small additions to multi-building commercial sites.</p>
+        <p>TPO flat roof installations in Springfield, Oregon typically run <strong>$5 to $10 per square foot</strong> installed, including insulation, membrane, flashing, and tear-off. Membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition all affect pricing. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement. Rain or Shine Roofing specializes in TPO flat roofing across Springfield, Eugene, and the surrounding 100-mile area. Owner Tim Davis has over 30 years of hands-on low-slope experience &mdash; this is what he&rsquo;s known for.</p>
 
         <div class="answer-block">
           <h3>Why is TPO the standard for flat roofs?</h3>

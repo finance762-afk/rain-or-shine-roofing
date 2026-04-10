@@ -74,7 +74,7 @@ $noindex         = $noindex         ?? false;
 <?php endif; ?>
 
 <!-- Site stylesheet (cache-busted) -->
-<link rel="stylesheet" href="/assets/css/styles.css?v=6">
+<link rel="stylesheet" href="/assets/css/styles.css?v=7">
 
 <?php if (!empty($heroImage)): ?>
 <link rel="preload" as="image" href="<?php echo htmlspecialchars($heroImage); ?>">

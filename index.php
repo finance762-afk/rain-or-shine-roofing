@@ -27,22 +27,28 @@ $schemaMarkup = <<<JSON
       "telephone": "+1-541-606-3306",
       "email": "tim@expertroofer.net",
       "priceRange": "\$\$",
-      "description": "Licensed and insured roofing contractor serving Springfield, OR and a 100-mile radius including Eugene, the I-5 corridor, and the Oregon Coast. Residential and commercial roofing, asphalt shingles, TPO flat roofing, tear-off and replacement, rot repair, and seamless gutters.",
+      "description": "Licensed and insured roofing contractor serving Springfield, OR and a 100-mile radius including Eugene, the I-5 corridor, and the Oregon Coast. Residential and commercial roofing, asphalt shingles, TPO flat roofing, tear-off and replacement, rot repair.",
       "address": {
         "@type": "PostalAddress",
         "addressLocality": "Springfield",
         "addressRegion": "OR",
         "addressCountry": "US"
       },
-      "areaServed": {
-        "@type": "GeoCircle",
-        "geoMidpoint": {
-          "@type": "GeoCoordinates",
-          "latitude": 44.0462,
-          "longitude": -123.0220
-        },
-        "geoRadius": "160934"
-      },
+      "areaServed": [
+        { "@type": "City", "name": "Springfield, OR" },
+        { "@type": "City", "name": "Eugene, OR" },
+        { "@type": "City", "name": "Cottage Grove, OR" },
+        { "@type": "City", "name": "Roseburg, OR" },
+        { "@type": "City", "name": "Albany, OR" },
+        { "@type": "City", "name": "Corvallis, OR" },
+        { "@type": "City", "name": "Lebanon, OR" },
+        { "@type": "City", "name": "Sweet Home, OR" },
+        { "@type": "City", "name": "Florence, OR" },
+        { "@type": "City", "name": "Reedsport, OR" },
+        { "@type": "City", "name": "Newport, OR" },
+        { "@type": "City", "name": "Lincoln City, OR" },
+        { "@type": "City", "name": "Coos Bay, OR" }
+      ],
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -65,7 +71,8 @@ $schemaMarkup = <<<JSON
         "@type": "AggregateRating",
         "ratingValue": "5.0",
         "reviewCount": "27"
-      }
+      },
+      "veteranOwned": true
     },
     {
       "@type": "WebSite",
@@ -171,6 +178,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <span class="trust-icon"><i data-lucide="building-2" width="24" height="24" aria-hidden="true"></i></span>
         <span class="trust-label">Residential &amp;<br>Commercial</span>
       </div>
+      <div class="trust-item">
+        <span class="trust-icon"><i data-lucide="shield" width="24" height="24" aria-hidden="true"></i></span>
+        <span class="trust-label">Veteran<br>Owned</span>
+      </div>
     </div>
   </section>
 
@@ -180,7 +191,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="section-header">
         <span class="eyebrow-label">Springfield, OR Roofing Specialists</span>
         <h2>Built for Oregon Weather. Backed by a Local Crew.</h2>
-        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon. Owner Tim Davis and his crew install, replace, and repair residential and commercial roofs across the I-5 corridor and Oregon Coast &mdash; asphalt shingles, TPO flat systems, tear-offs, rot repair, and seamless gutters in 36 colors.</p>
+        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon. Owner Tim Davis and his crew install, replace, and repair residential and commercial roofs across the I-5 corridor and Oregon Coast &mdash; Malarkey architectural shingles, TPO flat systems, tear-offs, and rot repair.</p>
       </div>
 
       <!-- ========== SERVICES GRID ========== -->
@@ -208,7 +219,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <article class="service-card">
           <span class="service-icon"><i data-lucide="layers" width="28" height="28" aria-hidden="true"></i></span>
           <h3>Asphalt Shingle Roofing</h3>
-          <p>Architectural and three-tab shingles installed with proper ventilation, ice-and-water shield, and warranty-backed underlayment for Oregon&rsquo;s wet climate.</p>
+          <p>Malarkey limited lifetime architectural laminated fiberglass shingles with built-in Scotchgard moss protection, installed with proper ventilation and ice-and-water shield.</p>
           <a href="/services/asphalt-shingle-roofing" class="service-link">
             Learn More
             <i data-lucide="arrow-right" width="16" height="16" aria-hidden="true"></i>
@@ -245,15 +256,6 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           </a>
         </article>
 
-        <article class="service-card">
-          <span class="service-icon"><i data-lucide="droplets" width="28" height="28" aria-hidden="true"></i></span>
-          <h3>Seamless Gutters</h3>
-          <p>On-site seamless aluminum gutters in 36 color options. Proper slope, hidden hangers, and downspout routing built for Pacific Northwest rainfall.</p>
-          <a href="/services/seamless-gutters" class="service-link">
-            Learn More
-            <i data-lucide="arrow-right" width="16" height="16" aria-hidden="true"></i>
-          </a>
-        </article>
       </div>
     </div>
   </section>
@@ -287,7 +289,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
               <span class="why-icon"><i data-lucide="mountain" width="22" height="22" aria-hidden="true"></i></span>
               <div>
                 <h4>Steep-Pitch and Flat Roof Expertise</h4>
-                <p>Shingles, cedar, metal, and TPO flat systems. We handle the full spectrum &mdash; residential and commercial, from 1/12 to 12/12 pitch.</p>
+                <p>Malarkey architectural shingles and TPO flat systems. We handle the full spectrum &mdash; residential and commercial, from 1/12 to 12/12 pitch.</p>
               </div>
             </li>
             <li>
@@ -311,7 +313,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <span class="stat-label">Roofs Completed</span>
       </div>
       <div class="stat-counter">
-        <span class="stat-number" data-counter="18" data-suffix="+">18+</span>
+        <span class="stat-number" data-counter="30" data-suffix="+">30+</span>
         <span class="stat-label">Years Experience</span>
       </div>
       <div class="stat-counter">
@@ -341,7 +343,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">2</div>
           <h3>Detailed Estimate</h3>
-          <p>Written scope of work with itemized materials, labor, disposal, and warranty terms. No verbal guesses.</p>
+          <p>Written scope of work with itemized materials, labor, and disposal. No verbal guesses.</p>
         </div>
         <div class="process-step">
           <div class="process-num">3</div>
@@ -351,7 +353,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>Final Walkthrough</h3>
-          <p>We clean the jobsite, magnet-sweep for nails, and walk the property with you before handing over warranty paperwork.</p>
+          <p>We clean the jobsite, magnet-sweep for nails, and walk the property with you before final sign-off.</p>
         </div>
       </div>
     </div>
@@ -388,8 +390,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div>
           <h2 class="section-title">Meet Tim Davis</h2>
           <p class="section-subtitle">The roofer behind Rain or Shine &mdash; on every job, every day.</p>
-          <p>Tim founded Rain or Shine Roofing with a simple idea: treat every roof like it&rsquo;s going on his own house. That means real inspections, honest estimates, and a crew that&rsquo;s in it for the long haul &mdash; not the next up-sell.</p>
-          <p>After nearly two decades on Oregon roofs, Tim knows the weather here. He knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Rain or Shine Roofing brings that experience to every job across the I-5 corridor and the Oregon Coast.</p>
+          <p>A U.S. military veteran, Tim founded Rain or Shine Roofing with a simple idea: treat every roof like it&rsquo;s going on his own house. That means real inspections, honest estimates, and a crew that&rsquo;s in it for the long haul &mdash; not the next up-sell.</p>
+          <p>After over 30 years on Oregon roofs, Tim knows the weather here. He knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Rain or Shine Roofing brings that experience to every job across the I-5 corridor and the Oregon Coast.</p>
           <div class="owner-sig">
             <strong>Tim Davis</strong>
             <span>Owner &amp; Lead Roofer &middot; CCB #198825</span>

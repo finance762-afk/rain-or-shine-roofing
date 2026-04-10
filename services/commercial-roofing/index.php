@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What a Commercial Roof Project Actually Looks Like</h2>
-        <p>Commercial roof installations in Springfield, Oregon typically run <strong>$4&ndash;$12 per square foot</strong> depending on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. Rain or Shine Roofing provides commercial roof installation and repair for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area, from small retail buildings to multi-building industrial parks.</p>
+        <p>Commercial roof installations in Springfield, Oregon typically run <strong>$4&ndash;$12 per square foot</strong> depending on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. With owner Tim Davis bringing over 30 years of low-slope roofing expertise, Rain or Shine Roofing provides commercial roof installation and repair across Springfield, Eugene, and the surrounding 100-mile area, from small retail buildings to multi-building industrial parks.</p>
 
         <div class="answer-block">
           <h3>What commercial roof systems does Rain or Shine install?</h3>
@@ -139,7 +139,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div>
           <span class="eyebrow-label">Built Around Your Business</span>
           <h2 class="section-title">Minimal Disruption. Maximum Durability.</h2>
-          <p>Commercial roofs aren&rsquo;t just bigger residential roofs &mdash; they&rsquo;re different systems, with different failure modes, different drainage, and different code requirements. Rain or Shine Roofing works with property managers, building owners, and facility teams across Lane County to re-roof, patch, or fully replace commercial buildings without shutting the business down.</p>
+          <p>Commercial roofs aren&rsquo;t just bigger residential roofs &mdash; they&rsquo;re different systems, with different failure modes, different drainage, and different code requirements. With over 30 years specializing in low-slope and flat-roof systems, Rain or Shine Roofing works with property managers, building owners, and facility teams across Lane County to re-roof, patch, or fully replace commercial buildings without shutting the business down.</p>
           <p>We stage materials where they won&rsquo;t block entries, protect customer parking, sequence tear-offs to minimize exposure, and clean up every day &mdash; not just at the end. For time-sensitive projects we can work evenings or weekends.</p>
           <div style="margin-top: var(--space-xl);">
             <a href="/contact" class="btn-primary">
@@ -221,7 +221,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>Inspection &amp; Handoff</h3>
-          <p>Final walk with the property owner or manager, drain test, warranty documentation, and maintenance recommendations.</p>
+          <p>Final walk with the property owner or manager, drain test, project documentation, and maintenance recommendations.</p>
         </div>
       </div>
     </div>

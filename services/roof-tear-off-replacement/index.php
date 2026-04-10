@@ -67,7 +67,7 @@ $schemaMarkup = <<<JSON
           "name": "What happens if the deck underneath is damaged?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Deck damage is common when moisture has been getting past old flashing or ventilation. We replace any rotted sheathing or plywood with new, properly-nailed material before the new underlayment and shingles go down. Deck repair is included in our tear-off process — we give a square footage allowance in the original bid and reconcile actual on the job."
+            "text": "Deck damage is common when moisture has been getting past old flashing or ventilation. We replace any rotted sheathing with new ½″ CDX plywood, properly nailed, before the new underlayment and shingles go down. Deck repair is included in our tear-off process — we give a square footage allowance in the original bid and reconcile actual on the job."
           }
         }
       ]
@@ -119,11 +119,11 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>How Much Does a Full Roof Replacement Cost in Oregon?</h2>
-        <p>Complete roof tear-off and replacement in Springfield, Oregon typically runs <strong>$10,000 to $22,000</strong> for a single-family home &mdash; dependent on square footage, pitch, material grade, and the condition of the decking underneath. Tear-off adds roughly <strong>$1,000&ndash;$3,500</strong> over a layer-over install, but it&rsquo;s the only way to guarantee the new roof performs as warranted. Rain or Shine Roofing provides complete tear-off and replacement for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area.</p>
+        <p>Complete roof tear-off and replacement in Springfield, Oregon typically runs <strong>$10,000 to $22,000</strong> for a single-family home &mdash; dependent on square footage, pitch, material grade, and the condition of the decking underneath. Tear-off adds roughly <strong>$1,000&ndash;$3,500</strong> over a layer-over install, but it&rsquo;s the only way to guarantee the new roof performs long-term. Rain or Shine Roofing provides complete tear-off and replacement for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area.</p>
 
         <div class="answer-block">
           <h3>Why not just layer over the old roof?</h3>
-          <p>A second layer hides deck damage, adds weight the structure wasn&rsquo;t designed for, reduces shingle warranty coverage, and locks in whatever was wrong with the old install. Oregon code allows up to two layers total, but we don&rsquo;t recommend layer-overs on anything we expect to last 25 years.</p>
+          <p>A second layer hides deck damage, adds weight the structure wasn&rsquo;t designed for, shortens shingle life, and locks in whatever was wrong with the old install. Oregon code allows up to two layers total, but we don&rsquo;t recommend layer-overs on anything we expect to last 25 years.</p>
         </div>
       </div>
     </div>
@@ -203,12 +203,12 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">3</div>
           <h3>Deck Inspection</h3>
-          <p>We walk the entire deck, photograph damaged sheathing, and replace any rotted or spongy sections with new plywood.</p>
+          <p>We walk the entire deck, photograph damaged sheathing, and replace any rotted or spongy sections with new &frac12;&Prime; CDX plywood.</p>
         </div>
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>New Roof System</h3>
-          <p>Ice and water shield, underlayment, drip edge, flashing, shingles, and ventilation &mdash; the full new system, to manufacturer spec.</p>
+          <p>Ice and water shield, underlayment, drip edge, flashing, Malarkey architectural shingles (for pitched roofs), and ventilation &mdash; the full new system, to manufacturer spec.</p>
         </div>
       </div>
     </div>
@@ -236,7 +236,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What happens if the deck underneath is damaged?</summary>
           <div class="faq-answer">
-            Deck damage is common when moisture has been getting past old flashing or ventilation. We replace any rotted sheathing or plywood with new, properly-nailed material before the new underlayment and shingles go down. Deck repair is included in our tear-off process &mdash; we give a square footage allowance in the original bid and reconcile actual on the job.
+            Deck damage is common when moisture has been getting past old flashing or ventilation. We replace any rotted sheathing with new &frac12;&Prime; CDX plywood, properly nailed, before the new underlayment and shingles go down. Deck repair is included in our tear-off process &mdash; we give a square footage allowance in the original bid and reconcile actual on the job.
           </div>
         </details>
       </div>

@@ -38,7 +38,7 @@ $schemaMarkup = <<<JSON
         "@type": "Person",
         "name": "Tim Davis"
       },
-      "description": "Owner-operated roofing contractor based in Springfield, Oregon, serving a 100-mile radius across the I-5 corridor and Oregon Coast. Residential and commercial roofing, tear-offs, rot repair, and seamless gutters."
+      "description": "Owner-operated roofing contractor based in Springfield, Oregon, serving a 100-mile radius across the I-5 corridor and Oregon Coast. Residential and commercial roofing, tear-offs, and rot repair. Veteran-owned and operated."
     },
     {
       "@type": "Person",
@@ -47,7 +47,7 @@ $schemaMarkup = <<<JSON
       "jobTitle": "Founder & Lead Roofer",
       "worksFor": { "@id": "https://rainorshine-roofing.com/#organization" },
       "image": "https://i.imgur.com/bq3osMY.png",
-      "description": "Owner and lead roofer at Rain or Shine Roofing in Springfield, Oregon. Nearly two decades of residential and commercial roofing experience across the Pacific Northwest."
+      "description": "Owner and lead roofer at Rain or Shine Roofing in Springfield, Oregon. Over 30 years of residential and commercial roofing experience, specializing in low-slope roofing and architectural fiberglass installation across the Pacific Northwest."
     },
     {
       "@type": "RoofingContractor",
@@ -130,8 +130,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div>
           <span class="eyebrow-label">Meet the Owner</span>
           <h2 class="section-title">Tim Davis &mdash; On Every Job, Every Day</h2>
-          <p class="section-subtitle">Nearly two decades on Oregon roofs, and the same rule on day one as today: treat every roof like it&rsquo;s going on my own house.</p>
-          <p>Tim Davis founded Rain or Shine Roofing with a simple idea: homeowners and business owners deserve a roofer who actually shows up on the roof. Not a salesperson in a polo shirt, not a project manager you&rsquo;ll never meet twice &mdash; the owner, with his tools, climbing the same ladder as his crew.</p>
+          <p class="section-subtitle">Over 30 years on Oregon roofs, and the same rule on day one as today: treat every roof like it&rsquo;s going on my own house.</p>
+          <p>A U.S. military veteran, Tim Davis founded Rain or Shine Roofing with a simple idea: homeowners and business owners deserve a roofer who actually shows up on the roof. Veteran-owned and operated from day one. Not a salesperson in a polo shirt, not a project manager you&rsquo;ll never meet twice &mdash; the owner, with his tools, climbing the same ladder as his crew.</p>
           <p>That&rsquo;s how Rain or Shine has operated from the first job to the most recent. Tim inspects every roof, writes every estimate, and runs every installation. When you call (541) 606-3306, you&rsquo;re talking to the person who will be standing on your roof &mdash; not a call center.</p>
           <div class="owner-sig">
             <strong>Tim Davis</strong>
@@ -152,8 +152,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div>
           <span class="eyebrow-label">The Work We Do</span>
           <h2 class="section-title">Steep Pitch, Flat Roof, and Everything in Between</h2>
-          <p class="section-subtitle">From 4/12 ranch-style shingle roofs to 12/12 Craftsman cut-ups to commercial TPO flat systems &mdash; Tim&rsquo;s crew handles the full range.</p>
-          <p>Residential roofing makes up most of the work. Tim&rsquo;s crew installs asphalt shingles on every pitch Oregon throws at them, including the steep, complex, multi-plane roofs that most crews charge extra for and still get wrong. On the commercial side, Rain or Shine installs TPO single-ply membrane systems for flat and low-slope buildings &mdash; shops, warehouses, additions, and multi-unit properties.</p>
+          <p class="section-subtitle">With over 30 years specializing in low-slope roofing and all-pitch architectural fiberglass installation, Tim&rsquo;s crew handles the full range &mdash; from 4/12 ranch-style builds to 12/12 Craftsman cut-ups to commercial TPO flat systems.</p>
+          <p>Residential roofing makes up most of the work. Tim&rsquo;s crew installs Malarkey architectural laminated fiberglass shingles on every pitch Oregon throws at them, including the steep, complex, multi-plane roofs that most crews charge extra for and still get wrong. On the commercial side, Rain or Shine installs TPO single-ply membrane systems for flat and low-slope buildings &mdash; shops, warehouses, additions, and multi-unit properties.</p>
           <p>And when a roof has rot? Tim&rsquo;s crew doesn&rsquo;t slap shingles over damaged decking and hope for the best. They tear out the rotted sheathing, fix the moisture source &mdash; whether that&rsquo;s a flashing failure, a ventilation gap, or a leaking penetration &mdash; and rebuild the assembly the right way so it doesn&rsquo;t come back.</p>
         </div>
       </div>
@@ -184,9 +184,9 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>When decking is rotten, we tear it out, fix the moisture source, and rebuild. No patch-and-pray, no covering the problem so it surfaces again in two winters.</p>
         </div>
         <div class="card">
-          <span class="card-icon"><i data-lucide="droplets" width="28" height="28" aria-hidden="true"></i></span>
-          <h3>Seamless Gutters On-Site</h3>
-          <p>Aluminum gutters fabricated in your driveway in 36 color options. Custom-cut to the exact run, sloped for Oregon rainfall, hung with hidden hangers.</p>
+          <span class="card-icon"><i data-lucide="shield" width="28" height="28" aria-hidden="true"></i></span>
+          <h3>Veteran-Owned Business</h3>
+          <p>Tim Davis is a U.S. military veteran. Rain or Shine Roofing is veteran-owned and operated &mdash; bringing the same discipline, reliability, and commitment to every job.</p>
         </div>
         <div class="card">
           <span class="card-icon"><i data-lucide="map-pin" width="28" height="28" aria-hidden="true"></i></span>
@@ -214,7 +214,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <h2 class="section-title">Finished the Right Way &mdash; Every Time</h2>
           <p class="section-subtitle">Oregon weather is unforgiving. A roof that looks finished isn&rsquo;t the same as a roof that performs in February.</p>
           <p>Every Rain or Shine install follows the same standard: synthetic underlayment, ice-and-water shield at eaves and penetrations, proper drip edge and flashing, ridge ventilation to match the soffit intake, and manufacturer-approved fasteners. The details that water finds in a Pacific Northwest winter are the ones we get right on the dry days.</p>
-          <p>Cleanup is the same story. Magnetic nail sweeps, gutter checks, property walk-throughs, and warranty paperwork handed over in person at the end of the job. The kitchen is the last place we stand before we leave.</p>
+          <p>Cleanup is the same story. Magnetic nail sweeps, drainage checks, property walk-throughs, and final documentation handed over in person at the end of the job. The kitchen is the last place we stand before we leave.</p>
           <p><a href="/service-area" class="btn-secondary" style="margin-top: var(--space-md);">
             <i data-lucide="map" width="16" height="16" aria-hidden="true"></i>
             View Our Service Area

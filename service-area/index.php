@@ -44,6 +44,7 @@ $schemaMarkup = <<<JSON
         { "@type": "City", "name": "Lebanon, OR" },
         { "@type": "City", "name": "Sweet Home, OR" },
         { "@type": "City", "name": "Florence, OR" },
+        { "@type": "City", "name": "Reedsport, OR" },
         { "@type": "City", "name": "Newport, OR" },
         { "@type": "City", "name": "Lincoln City, OR" },
         { "@type": "City", "name": "Coos Bay, OR" }
@@ -100,7 +101,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>Where We Roof</h2>
-        <p>Rain or Shine Roofing provides residential and commercial roofing services in Springfield, Oregon and a <strong>100-mile radius</strong> that covers Eugene, Cottage Grove, Roseburg, Albany, Corvallis, Lebanon, Sweet Home, and Oregon Coast communities including Florence, Newport, Lincoln City, and Coos Bay. From our Springfield yard, our crew reaches the entire southern Willamette Valley, the I-5 corridor, and the Central Oregon Coast in a single workday.</p>
+        <p>Rain or Shine Roofing provides residential and commercial roofing services in Springfield, Oregon and a <strong>100-mile radius</strong> that covers Eugene, Cottage Grove, Roseburg, Albany, Corvallis, Lebanon, Sweet Home, and Oregon Coast communities including Florence, Reedsport, Newport, Lincoln City, and Coos Bay. From our Springfield yard, our crew reaches the entire southern Willamette Valley, the I-5 corridor, and the Central Oregon Coast in a single workday.</p>
         <p>Tim Davis founded Rain or Shine Roofing to give Oregon homeowners and business owners access to a real local contractor &mdash; one who knows coastal wind patterns, Cascade foothill snow loads, and valley moss problems. Every job in our service area gets the same treatment: on-site inspection, written estimate, and a crew that shows up rain or shine.</p>
       </div>
     </div>
@@ -166,7 +167,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="card">
           <span class="card-icon"><i data-lucide="map-pin" width="26" height="26" aria-hidden="true"></i></span>
           <h3>Lebanon, OR</h3>
-          <p>Full-service roofing throughout Lebanon and the surrounding foothill communities &mdash; shingles, gutters, and rot repair.</p>
+          <p>Full-service roofing throughout Lebanon and the surrounding foothill communities &mdash; shingles, tear-offs, and rot repair.</p>
         </div>
         <div class="card">
           <span class="card-icon"><i data-lucide="map-pin" width="26" height="26" aria-hidden="true"></i></span>
@@ -177,6 +178,11 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <span class="card-icon"><i data-lucide="map-pin" width="26" height="26" aria-hidden="true"></i></span>
           <h3>Florence, OR</h3>
           <p>Coastal roofing built for salt air and sustained ocean winds. Upgraded fasteners and coastal-rated underlayment standard.</p>
+        </div>
+        <div class="card">
+          <span class="card-icon"><i data-lucide="map-pin" width="26" height="26" aria-hidden="true"></i></span>
+          <h3>Reedsport, OR</h3>
+          <p>Southern Oregon Coast roofing for homes and businesses in Reedsport and the lower Umpqua region &mdash; coastal-rated materials and fasteners standard.</p>
         </div>
         <div class="card">
           <span class="card-icon"><i data-lucide="map-pin" width="26" height="26" aria-hidden="true"></i></span>
@@ -245,13 +251,6 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <span class="related-icon"><i data-lucide="wrench" width="22" height="22" aria-hidden="true"></i></span>
           <div>
             <h3>Roof Rot Repair</h3>
-            <span>View Details &rarr;</span>
-          </div>
-        </a>
-        <a href="/services/seamless-gutters" class="related-card">
-          <span class="related-icon"><i data-lucide="droplets" width="22" height="22" aria-hidden="true"></i></span>
-          <div>
-            <h3>Seamless Gutters</h3>
             <span>View Details &rarr;</span>
           </div>
         </a>

@@ -48,9 +48,9 @@ $schemaMarkup = <<<JSON
       "name": "How a residential roof replacement works in Springfield, OR",
       "step": [
         { "@type": "HowToStep", "name": "On-Site Inspection", "text": "Full walk-around and in-attic moisture check to document decking, flashing, ventilation, and drainage." },
-        { "@type": "HowToStep", "name": "Written Estimate", "text": "Itemized written estimate with materials, labor, disposal, and warranty terms." },
+        { "@type": "HowToStep", "name": "Written Estimate", "text": "Itemized written estimate with materials, labor, disposal, and timeline." },
         { "@type": "HowToStep", "name": "Tear-Off and Deck Prep", "text": "Remove old roofing down to the deck, replace any damaged sheathing, install ice and water shield and synthetic underlayment." },
-        { "@type": "HowToStep", "name": "Installation and Walkthrough", "text": "Install shingles, flashing, and ridge ventilation to manufacturer spec, then clean up and walk the property before handing over warranty paperwork." }
+        { "@type": "HowToStep", "name": "Installation and Walkthrough", "text": "Install shingles, flashing, and ridge ventilation to manufacturer spec, then clean up and walk the property before handing over project documentation." }
       ]
     },
     {
@@ -61,7 +61,7 @@ $schemaMarkup = <<<JSON
           "name": "What's included in a residential roof replacement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Warranty paperwork is delivered at the final walkthrough."
+            "text": "A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough."
           }
         },
         {
@@ -69,7 +69,7 @@ $schemaMarkup = <<<JSON
           "name": "How often should a residential roof be replaced in Oregon?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Most asphalt shingle roofs in Oregon last 20 to 30 years depending on the product line, ventilation, and moss exposure. Homes under heavy tree cover, north-facing slopes, or coastal wind often need replacement earlier. If you're seeing curling shingles, granule loss in gutters, or moss buildup that keeps returning, it's time for an inspection."
+            "text": "Most asphalt shingle roofs in Oregon last 20 to 30 years depending on the product line, ventilation, and moss exposure. Homes under heavy tree cover, north-facing slopes, or coastal wind often need replacement earlier. If you're seeing curling shingles, granule loss at the roof edge, or moss buildup that keeps returning, it's time for an inspection."
           }
         },
         {
@@ -138,7 +138,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
         <div class="answer-block">
           <h3>What does a residential roof project include?</h3>
-          <p>Tear-off of the old roof, deck and sheathing inspection, new ice and water shield, synthetic underlayment, drip edge, step and counter flashing, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Warranty paperwork is delivered at the final walkthrough &mdash; not weeks later.</p>
+          <p>Tear-off of the old roof, deck and sheathing inspection, new ice and water shield, synthetic underlayment, drip edge, step and counter flashing, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough &mdash; not weeks later.</p>
         </div>
       </div>
     </div>
@@ -215,7 +215,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">2</div>
           <h3>Written Estimate</h3>
-          <p>Itemized scope, materials, labor, disposal, and warranty terms. Nothing verbal &mdash; everything on paper.</p>
+          <p>Itemized scope, materials, labor, disposal, and timeline. Nothing verbal &mdash; everything on paper.</p>
         </div>
         <div class="process-step">
           <div class="process-num">3</div>
@@ -225,7 +225,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>Cleanup &amp; Walkthrough</h3>
-          <p>Magnetic sweep, gutter check, and a property walkthrough before warranty paperwork changes hands.</p>
+          <p>Magnetic sweep, drainage check, and a property walkthrough before final sign-off.</p>
         </div>
       </div>
     </div>
@@ -242,13 +242,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What&rsquo;s included in a residential roof replacement?</summary>
           <div class="faq-answer">
-            A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Warranty paperwork is delivered at the final walkthrough.
+            A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough.
           </div>
         </details>
         <details class="faq-item">
           <summary>How often should a residential roof be replaced in Oregon?</summary>
           <div class="faq-answer">
-            Most asphalt shingle roofs in Oregon last <strong>20 to 30 years</strong> depending on the product line, ventilation, and moss exposure. Homes under heavy tree cover, north-facing slopes, or coastal wind often need replacement earlier. If you&rsquo;re seeing curling shingles, granule loss in gutters, or moss buildup that keeps returning, it&rsquo;s time for an inspection.
+            Most asphalt shingle roofs in Oregon last <strong>20 to 30 years</strong> depending on the product line, ventilation, and moss exposure. Homes under heavy tree cover, north-facing slopes, or coastal wind often need replacement earlier. If you&rsquo;re seeing curling shingles, granule loss at the roof edge, or moss buildup that keeps returning, it&rsquo;s time for an inspection.
           </div>
         </details>
         <details class="faq-item">
@@ -281,10 +281,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <span>View Details &rarr;</span>
         </div>
       </a>
-      <a href="/services/seamless-gutters" class="related-card">
-        <span class="related-icon"><i data-lucide="droplets" width="22" height="22" aria-hidden="true"></i></span>
+      <a href="/services/commercial-roofing" class="related-card">
+        <span class="related-icon"><i data-lucide="building-2" width="22" height="22" aria-hidden="true"></i></span>
         <div>
-          <h3>Seamless Gutters</h3>
+          <h3>Commercial Roofing</h3>
           <span>View Details &rarr;</span>
         </div>
       </a>
