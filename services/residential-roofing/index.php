@@ -36,7 +36,7 @@ $schemaMarkup = <<<JSON
           "addressCountry": "US"
         }
       },
-      "areaServed": "Springfield, Eugene, and the Oregon I-5 corridor within 100 miles of Springfield, OR",
+      "areaServed": "Springfield, Eugene, the Willamette Valley, and the Oregon Coast within 100 miles of Springfield, OR",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
@@ -50,7 +50,7 @@ $schemaMarkup = <<<JSON
         { "@type": "HowToStep", "name": "On-Site Inspection", "text": "Full walk-around and in-attic moisture check to document decking, flashing, ventilation, and drainage." },
         { "@type": "HowToStep", "name": "Written Estimate", "text": "Itemized written estimate with materials, labor, disposal, and timeline." },
         { "@type": "HowToStep", "name": "Tear-Off and Deck Prep", "text": "Remove old roofing down to the deck, replace any damaged sheathing, install ice and water shield and synthetic underlayment." },
-        { "@type": "HowToStep", "name": "Installation and Walkthrough", "text": "Install shingles, flashing, and ridge ventilation to manufacturer spec, then clean up and walk the property before handing over project documentation." }
+        { "@type": "HowToStep", "name": "Installation and Walkthrough", "text": "Install shingles, flashing, and ridge ventilation with hands-on workmanship and no shortcuts, then clean up and walk the property with the homeowner before final sign-off." }
       ]
     },
     {
@@ -61,7 +61,7 @@ $schemaMarkup = <<<JSON
           "name": "What's included in a residential roof replacement?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough."
+            "text": "A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, complete decking and rot repair where needed, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, professionally installed shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. A final property walkthrough is completed in person at the end of the job."
           }
         },
         {
@@ -97,15 +97,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="page-hero-inner">
       <span class="eyebrow-label">Residential Roofing Specialists</span>
       <h1>Residential Roofing in Springfield, OR</h1>
-      <p class="lead">New roof installs, complete re-roofs, and repair work for homes across Springfield, Eugene, and the Oregon I-5 corridor &mdash; from 4/12 asphalt shingle roofs to steep-pitch specialty builds.</p>
+      <p class="lead">New roof installs, complete re-roofs, and repair work for homes across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; from 4/12 asphalt shingle roofs to steep-pitch specialty builds.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Free Roof Inspection
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -129,7 +129,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What Residential Roofing Costs in Springfield, OR</h2>
-        <p>Most residential asphalt shingle roof replacements in Springfield, Oregon run <strong>$8,000 to $18,000</strong> for a typical single-family home &mdash; a figure driven by square footage, pitch, tear-off complexity, and material grade. Premium architectural shingles on steep pitches land at the higher end. Rain or Shine Roofing provides residential roof installation and repair for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area, with itemized written estimates that hold through the day the job ends.</p>
+        <p>Most residential asphalt shingle roof replacements in Springfield, Oregon run <strong>$8,000 to $18,000</strong> for a typical single-family home &mdash; a figure driven by square footage, pitch, tear-off complexity, and material grade. Premium architectural shingles on steep pitches land at the higher end. Rain or Shine Roofing provides residential roof installation, complete decking and rot repair, and full re-roof work for homeowners across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; every project begins with a thorough inspection and a detailed written proposal so you know exactly what to expect before any work starts.</p>
 
         <div class="answer-block">
           <h3>How long does a residential roof replacement take?</h3>
@@ -138,7 +138,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
         <div class="answer-block">
           <h3>What does a residential roof project include?</h3>
-          <p>Tear-off of the old roof, deck and sheathing inspection, new ice and water shield, synthetic underlayment, drip edge, step and counter flashing, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough &mdash; not weeks later.</p>
+          <p>Tear-off of the old roof, complete decking and rot repair where needed, new ice and water shield, synthetic underlayment, drip edge, step and counter flashing, professionally installed shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Final property walkthrough in person with the homeowner &mdash; no ghosting after the last nail.</p>
         </div>
       </div>
     </div>
@@ -149,7 +149,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split-reverse">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis of Rain or Shine Roofing installing a residential asphalt shingle roof in Springfield Oregon" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/DmUXr1D.jpeg" alt="Finished red asphalt shingle residential roof by Rain or Shine Roofing in Oregon" width="900" height="700" loading="lazy">
         </div>
         <div>
           <h2 class="section-title">Built for How Oregon Homes Actually Weather</h2>
@@ -220,7 +220,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">3</div>
           <h3>Tear-Off &amp; Install</h3>
-          <p>Strip to decking, repair sheathing, install underlayment, flashing, and shingles to manufacturer spec.</p>
+          <p>Strip to decking, complete any rot repair, install underlayment, flashing, and shingles with hands-on workmanship &mdash; no shortcuts.</p>
         </div>
         <div class="process-step">
           <div class="process-num">4</div>
@@ -242,7 +242,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What&rsquo;s included in a residential roof replacement?</summary>
           <div class="faq-answer">
-            A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Project documentation is delivered at the final walkthrough.
+            A complete residential roof replacement from Rain or Shine Roofing includes tear-off of the existing roof, complete decking and rot repair where needed, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, professionally installed shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. The job ends with a final property walkthrough in person.
           </div>
         </details>
         <details class="faq-item">
@@ -293,16 +293,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
-    <h2>Get a Free Residential Roof Estimate</h2>
-    <p>Tim will walk your roof, inspect the attic, and write up a detailed scope &mdash; then sit down at your kitchen table and answer every question you&rsquo;ve got. Free, no pressure.</p>
+    <h2>Call for Your Free Residential Roof Estimate</h2>
+    <p>Call today and a professional roofer will get back to you right away. Tim walks your roof, inspects the attic, and delivers a detailed written proposal &mdash; free, no pressure.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>

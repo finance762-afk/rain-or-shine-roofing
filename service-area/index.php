@@ -2,8 +2,8 @@
 /**
  * Service Area — Rain or Shine Roofing
  */
-$pageTitle       = "Roofing Service Area | Springfield OR & 100-Mile Radius | Rain or Shine";
-$pageDescription = "Rain or Shine Roofing serves Springfield, Eugene, the I-5 corridor, and the Oregon Coast within a 100-mile radius. Residential & commercial roofing. Call (541) 606-3306.";
+$pageTitle       = "Roofing Service Area | Willamette Valley & Oregon Coast | Rain or Shine";
+$pageDescription = "Rain or Shine Roofing serves the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast within a 100-mile radius. Residential & commercial roofing. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/service-area";
 $ogImage         = "https://i.imgur.com/TcjRAxN.png";
 $currentPage     = "service-area";
@@ -68,17 +68,17 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== PAGE HERO ========== -->
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.88) 0%, rgba(0,45,122,0.74) 60%, rgba(0,71,187,0.62) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="page-hero-inner">
-      <span class="eyebrow-label">Springfield, OR &middot; 100-Mile Radius</span>
-      <h1>Roofing Service Area &mdash; Springfield, OR &amp; 100-Mile Radius</h1>
-      <p class="lead">Rain or Shine Roofing serves Springfield, Eugene, the I-5 corridor from Albany to Roseburg, and Oregon Coast communities within a 100-mile radius of Springfield.</p>
+      <span class="eyebrow-label">Willamette Valley &middot; Oregon Coast &middot; 100-Mile Radius</span>
+      <h1>Roofing Service Area &mdash; Willamette Valley &amp; Oregon Coast</h1>
+      <p class="lead">Rain or Shine Roofing serves the Eugene-Springfield area, the Willamette Valley from Albany to Roseburg, and the Oregon Coast within a 100-mile radius of Springfield.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Get a Free Estimate
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -102,7 +102,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="prose-centered">
         <h2>Where We Roof</h2>
         <p>Rain or Shine Roofing provides residential and commercial roofing services in Springfield, Oregon and a <strong>100-mile radius</strong> that covers Eugene, Cottage Grove, Roseburg, Albany, Corvallis, Lebanon, Sweet Home, and Oregon Coast communities including Florence, Reedsport, Newport, Lincoln City, and Coos Bay. From our Springfield yard, our crew reaches the entire southern Willamette Valley, the I-5 corridor, and the Central Oregon Coast in a single workday.</p>
-        <p>Tim Davis founded Rain or Shine Roofing to give Oregon homeowners and business owners access to a real local contractor &mdash; one who knows coastal wind patterns, Cascade foothill snow loads, and valley moss problems. Every job in our service area gets the same treatment: on-site inspection, written estimate, and a crew that shows up rain or shine.</p>
+        <p>Tim founded Rain or Shine Roofing to give Oregon homeowners and business owners access to a real local contractor &mdash; one who knows coastal wind patterns, Cascade foothill snow loads, and valley moss problems. Every job in our service area gets the same treatment: on-site inspection, written estimate, and a crew that shows up rain or shine.</p>
       </div>
     </div>
   </section>
@@ -283,18 +283,18 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Inside the 100-Mile Radius? We&rsquo;re Ready.</h2>
-    <p>Call Tim directly or request a free estimate online &mdash; same-day response, written quotes, and a crew that shows up rain or shine.</p>
+    <p>Call today and a professional roofer will get back to you right away &mdash; detailed written proposal, and a crew that shows up rain or shine.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
       <a href="/about" class="btn-secondary on-dark">
-        Meet Tim Davis
+        Meet Tim
       </a>
     </div>
   </section>

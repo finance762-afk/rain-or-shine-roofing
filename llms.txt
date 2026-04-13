@@ -1,11 +1,11 @@
 # Rain or Shine Roofing
 
-> Licensed and insured residential and commercial roofing contractor based in Springfield, Oregon. Owner-operated by Tim Davis. Serving a 100-mile radius across the I-5 corridor and Oregon Coast. Veteran-owned.
+> Licensed and insured residential and commercial roofing contractor based in Springfield, Oregon. Owner-operated by Tim. Serving the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast within a 100-mile radius. Veteran-owned. Oregon State Contractor License #158625.
 
 ## Company
 - Name: Rain or Shine Roofing
-- Owner: Tim Davis (Founder & Lead Roofer)
-- License: CCB #198825
+- Owner: Tim (Founder & Lead Roofer)
+- License: Oregon State Contractor License #158625
 - Phone: (541) 606-3306
 - Email: tim@expertroofer.net
 - Website: https://rainorshine-roofing.com/
@@ -33,5 +33,5 @@
 - [Roof Tear-Off & Replacement](https://rainorshine-roofing.com/services/roof-tear-off-replacement): Complete roof removal and replacement.
 - [Roof Rot Repair](https://rainorshine-roofing.com/services/roof-rot-repair): Rotted sheathing replacement and moisture source repair.
 - [Service Area](https://rainorshine-roofing.com/service-area): Cities and communities served within 100 miles of Springfield.
-- [About](https://rainorshine-roofing.com/about): About Tim Davis and Rain or Shine Roofing.
+- [About](https://rainorshine-roofing.com/about): About Tim and Rain or Shine Roofing.
 - [Contact](https://rainorshine-roofing.com/contact): Contact information and free estimate request form.

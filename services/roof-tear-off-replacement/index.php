@@ -89,13 +89,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <h1>Roof Tear-Off &amp; Replacement in Springfield, OR</h1>
       <p class="lead">Complete removal of the existing roof down to the deck &mdash; with sheathing inspection, repair, and a brand-new roof system installed the right way.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Free Tear-Off Estimate
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -134,12 +134,12 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/TcjRAxN.png" alt="Completed roof replacement project overlooking the Oregon coast" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/BIxpP1I.jpeg" alt="Roofing supplies staged on a residential roof during a Rain or Shine Roofing tear-off in Oregon" width="900" height="700" loading="lazy">
         </div>
         <div>
           <h2 class="section-title">Tear-Off Exposes the Parts That Actually Matter</h2>
           <p>Most roof failures in Oregon don&rsquo;t start with the shingles &mdash; they start with decking, flashing, or ventilation that nobody ever looked at. A complete tear-off lets us see everything: rotted sheathing under the eaves, failed ice and water shield in the valleys, cracked plumbing boots, and bad step flashing at dormers and sidewalls.</p>
-          <p>We document every issue, show you photos, and either fix it in the original scope or add a written change order before work continues. No mystery, no surprise invoice at the end.</p>
+          <p>We document every issue, show you photos, and either fix it in the original scope or add a written change order before work continues. No mystery, no surprise charges at the end.</p>
         </div>
       </div>
     </div>
@@ -208,7 +208,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>New Roof System</h3>
-          <p>Ice and water shield, underlayment, drip edge, flashing, Malarkey architectural shingles (for pitched roofs), and ventilation &mdash; the full new system, to manufacturer spec.</p>
+          <p>Ice and water shield, underlayment, drip edge, flashing, Malarkey architectural shingles (for pitched roofs), and ventilation &mdash; the full new system, installed with hands-on workmanship and no shortcuts.</p>
         </div>
       </div>
     </div>
@@ -275,16 +275,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
-    <h2>Ready to Tear Off and Start Fresh?</h2>
-    <p>Free on-site inspection with deck condition photos, written scope, and an honest recommendation on whether tear-off is the right call.</p>
+    <h2>Call for Your Tear-Off Estimate</h2>
+    <p>Call today and a professional roofer will get back to you right away. Free on-site inspection with deck condition photos, detailed written proposal, and an honest recommendation on whether tear-off is the right call.</p>
+    <a href="tel:+15416063306" class="cta-phone">
+      <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
+      (541) 606-3306
+    </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
-      </a>
-      <a href="tel:+15416063306" class="btn-secondary on-dark">
+      <a href="tel:+15416063306" class="btn-primary on-dark">
         <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-        Call (541) 606-3306
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>

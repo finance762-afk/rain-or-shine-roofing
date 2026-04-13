@@ -36,7 +36,7 @@ $schemaMarkup = <<<JSON
           "addressCountry": "US"
         }
       },
-      "areaServed": "Commercial properties within 100 miles of Springfield, OR",
+      "areaServed": "Commercial properties in Springfield, OR, the Willamette Valley, and the Oregon Coast within 100 miles of Springfield",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
@@ -59,7 +59,7 @@ $schemaMarkup = <<<JSON
           "name": "What commercial roof systems do you install?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Rain or Shine Roofing installs TPO single-ply membrane systems (the industry standard for flat and low-slope commercial roofs), peel-and-stick modified bitumen, and asphalt shingles on sloped commercial buildings. We also handle tear-off, deck replacement, flashing, and drain reconditioning on existing commercial roofs."
+            "text": "Rain or Shine Roofing installs TPO single-ply membrane systems (the industry standard for flat and low-slope commercial roofs), peel-and-stick modified bitumen, and asphalt shingles on sloped commercial buildings. We also handle tear-off, deck replacement, and flashing on existing commercial roofs."
           }
         },
         {
@@ -87,15 +87,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="page-hero-inner">
       <span class="eyebrow-label">Commercial &amp; Industrial Roofing</span>
       <h1>Commercial Roofing in Springfield, OR</h1>
-      <p class="lead">Flat and low-slope commercial roof installation, tear-off, and repair for warehouses, retail, office, and multi-unit properties across Oregon&rsquo;s I-5 corridor.</p>
+      <p class="lead">Flat and low-slope commercial roof installation, tear-off, and repair for warehouses, retail, office, and multi-unit properties across Springfield, OR, the Willamette Valley, and the Oregon Coast.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Request a Commercial Quote
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What a Commercial Roof Project Actually Looks Like</h2>
-        <p>Commercial roof installations in Springfield, Oregon typically run <strong>$4&ndash;$12 per square foot</strong> depending on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. With owner Tim Davis bringing over 30 years of low-slope roofing expertise, Rain or Shine Roofing provides commercial roof installation and repair across Springfield, Eugene, and the surrounding 100-mile area, from small retail buildings to multi-building industrial parks.</p>
+        <p>Commercial roof installations vary widely based on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. With owner Tim bringing over 30 years of low-slope roofing expertise, Rain or Shine Roofing provides commercial roof installation and repair across Springfield, OR, the Willamette Valley, and the Oregon Coast, from small retail buildings to multi-building industrial parks. Every project begins with a thorough inspection and a detailed written proposal &mdash; so you know exactly what to expect before any work starts. Tim and his crew have completed projects across the region, including the roof of the Waterfront Depot restaurant.</p>
 
         <div class="answer-block">
           <h3>What commercial roof systems does Rain or Shine install?</h3>
@@ -134,19 +134,37 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/dbzzO8P.png" alt="Completed commercial roofing project by Rain or Shine Roofing in Eugene Oregon" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/shggGyN.jpeg" alt="Completed commercial roofing project by Rain or Shine Roofing in Oregon" width="900" height="700" loading="lazy">
         </div>
         <div>
           <span class="eyebrow-label">Built Around Your Business</span>
           <h2 class="section-title">Minimal Disruption. Maximum Durability.</h2>
-          <p>Commercial roofs aren&rsquo;t just bigger residential roofs &mdash; they&rsquo;re different systems, with different failure modes, different drainage, and different code requirements. With over 30 years specializing in low-slope and flat-roof systems, Rain or Shine Roofing works with property managers, building owners, and facility teams across Lane County to re-roof, patch, or fully replace commercial buildings without shutting the business down.</p>
+          <p>Commercial roofs aren&rsquo;t just bigger residential roofs &mdash; they&rsquo;re different systems, with different failure modes, different drainage, and different code requirements. With over 30 years specializing in low-slope and flat-roof systems, Rain or Shine Roofing works with property managers, building owners, and facility teams across the Willamette Valley and Oregon Coast to re-roof, patch, or fully replace commercial buildings without shutting the business down.</p>
           <p>We stage materials where they won&rsquo;t block entries, protect customer parking, sequence tear-offs to minimize exposure, and clean up every day &mdash; not just at the end. For time-sensitive projects we can work evenings or weekends.</p>
           <div style="margin-top: var(--space-xl);">
-            <a href="/contact" class="btn-primary">
-              Get a Commercial Estimate
-              <i data-lucide="arrow-right" width="16" height="16" aria-hidden="true"></i>
+            <a href="tel:+15416063306" class="btn-primary">
+              <i data-lucide="phone" width="16" height="16" aria-hidden="true"></i>
+              Call (541) 606-3306
             </a>
           </div>
+        </div>
+      </div>
+
+      <!-- ========== BEFORE / AFTER ========== -->
+      <div style="margin-top: var(--space-3xl);">
+        <div class="section-header">
+          <span class="eyebrow-label">Recent Commercial Work</span>
+          <h2>Before &amp; After: Commercial Re-Roof</h2>
+        </div>
+        <div class="grid-2" data-animate>
+          <figure>
+            <img src="https://i.imgur.com/FHBhLTP.jpeg" alt="Commercial roof before replacement by Rain or Shine Roofing" width="900" height="600" loading="lazy" style="border-radius:var(--radius);">
+            <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;">Before</figcaption>
+          </figure>
+          <figure>
+            <img src="https://i.imgur.com/i2XhvO4.jpeg" alt="Commercial roof after replacement by Rain or Shine Roofing" width="900" height="600" loading="lazy" style="border-radius:var(--radius);">
+            <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;">After</figcaption>
+          </figure>
         </div>
       </div>
     </div>
@@ -169,7 +187,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="benefit-item">
           <span class="benefit-icon"><i data-lucide="shield-check" width="24" height="24" aria-hidden="true"></i></span>
           <h3>Licensed, Bonded, Insured</h3>
-          <p>Oregon CCB #198825 with commercial liability coverage. We provide COIs and documentation for property management companies and landlords.</p>
+          <p>Oregon State Contractor License #158625 with commercial liability coverage. We provide Certificate of Insurance paperwork for property management companies and landlords on request.</p>
         </div>
         <div class="benefit-item">
           <span class="benefit-icon"><i data-lucide="droplet" width="24" height="24" aria-hidden="true"></i></span>
@@ -221,7 +239,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>Inspection &amp; Handoff</h3>
-          <p>Final walk with the property owner or manager, drain test, project documentation, and maintenance recommendations.</p>
+          <p>Final walk with the property owner or manager and straightforward maintenance recommendations &mdash; in person.</p>
         </div>
       </div>
     </div>
@@ -243,7 +261,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What commercial roof systems do you install?</summary>
           <div class="faq-answer">
-            Rain or Shine Roofing installs TPO single-ply membrane systems (the industry standard for flat and low-slope commercial roofs), peel-and-stick modified bitumen, and asphalt shingles on sloped commercial buildings. We also handle tear-off, deck replacement, flashing, and drain reconditioning on existing commercial roofs.
+            Rain or Shine Roofing installs TPO single-ply membrane systems (the industry standard for flat and low-slope commercial roofs), peel-and-stick modified bitumen, and asphalt shingles on sloped commercial buildings. We also handle tear-off, deck replacement, and flashing on existing commercial roofs.
           </div>
         </details>
         <details class="faq-item">
@@ -288,16 +306,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
-    <h2>Get a Commercial Roof Quote</h2>
-    <p>Whether it&rsquo;s a warehouse, retail building, or multi-unit property &mdash; we&rsquo;ll walk the roof, scope the work, and deliver a written bid with line-item pricing.</p>
+    <h2>Call for Your Commercial Roof Estimate</h2>
+    <p>Call today and a professional roofer will get back to you right away. Whether it&rsquo;s a warehouse, retail building, or multi-unit property &mdash; we walk the roof, scope the work, and deliver a detailed written proposal.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Commercial Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>

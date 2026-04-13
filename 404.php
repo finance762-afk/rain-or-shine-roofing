@@ -19,6 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="error-section">
     <div class="container">
       <div class="error-inner">
+        <img src="https://i.imgur.com/KunCdx5.png" alt="Rain or Shine Roofing logo" style="max-height:80px;width:auto;margin-bottom:var(--space-md);" width="200" height="80" loading="eager">
         <div class="error-code">404</div>
         <h1>Looks Like This Page Blew Off in an Oregon Windstorm</h1>
         <p>We searched the decking and couldn&rsquo;t find it. The page you&rsquo;re looking for doesn&rsquo;t exist, has moved, or was never up there to begin with.</p>

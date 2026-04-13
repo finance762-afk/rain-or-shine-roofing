@@ -54,15 +54,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="page-hero-inner">
       <span class="eyebrow-label">Full-Service Roofing Contractor</span>
       <h1>Roofing Services in Springfield, OR</h1>
-      <p class="lead">From single-family re-roofs to TPO commercial flat systems, Rain or Shine Roofing handles every phase of roof work across Oregon&rsquo;s I-5 corridor and coast &mdash; installation, tear-off, replacement, and repair.</p>
+      <p class="lead">From single-family re-roofs to TPO commercial flat systems, Rain or Shine Roofing handles every phase of roof work across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; installation, tear-off, replacement, and repair.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Get a Free Estimate
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -85,7 +85,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header">
         <h2>A Complete Roofing Company &mdash; Not a Specialty Shop</h2>
-        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon (CCB #198825), serving homeowners, property managers, and business owners across Eugene, the I-5 corridor, and the Oregon Coast. Owner Tim Davis and his crew work on every style of roof the Pacific Northwest throws at them &mdash; steep asphalt shingles, flat TPO commercial systems, full tear-offs, and rot repair.</p>
+        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon (Oregon State Contractor License #158625), serving homeowners, property managers, and business owners across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast. From steep-pitch residential roofs to flat commercial systems, Rain or Shine handles every roofing style common across the Pacific Northwest &mdash; the only exception is metal roofing. Steep asphalt shingles, flat TPO commercial systems, full tear-offs, and rot repair: one crew, one license, no subcontracting the hard parts.</p>
       </div>
 
       <!-- ========== SERVICES CARD GRID ========== -->
@@ -159,17 +159,17 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Free Estimates. No Pressure. Straight Answers.</h2>
-    <p>Every roof project starts with a free on-site inspection and a written estimate. You&rsquo;ll know exactly what the job costs, what it includes, and how long it takes before anyone picks up a hammer.</p>
+    <p>Call today and a professional roofer will get back to you right away. Every project begins with a thorough inspection and a detailed written proposal &mdash; so you know exactly what to expect before any work starts.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
-      <a href="/about" class="btn-secondary on-dark">Meet Tim Davis</a>
+      <a href="/about" class="btn-secondary on-dark">Meet Tim</a>
     </div>
   </section>
 

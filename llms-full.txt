@@ -1,11 +1,11 @@
 # Rain or Shine Roofing — Full Reference
 
-> Licensed and insured residential and commercial roofing contractor based in Springfield, Oregon. Owner-operated by Tim Davis. Serving a 100-mile radius across the I-5 corridor and the Oregon Coast, 24 hours a day Monday through Saturday. Veteran-owned.
+> Licensed and insured residential and commercial roofing contractor based in Springfield, Oregon. Owner-operated by Tim. Serving the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast within a 100-mile radius, 24 hours a day Monday through Saturday. Veteran-owned.
 
 ## Company Information
 - Name: Rain or Shine Roofing
-- Owner: Tim Davis (Founder & Lead Roofer)
-- License: CCB #198825
+- Owner: Tim (Founder & Lead Roofer)
+- License: Oregon State Contractor License #158625
 - Phone: (541) 606-3306
 - Email: tim@expertroofer.net
 - Website: https://rainorshine-roofing.com/
@@ -17,13 +17,13 @@
 ## Service Area
 Rain or Shine Roofing serves a 100-mile radius from Springfield, Oregon. Primary coverage includes the southern Willamette Valley, the I-5 corridor from Albany to Roseburg, and Oregon Coast communities. Cities and communities served include Springfield, Eugene, Cottage Grove, Roseburg, Albany, Corvallis, Lebanon, Sweet Home, Florence, Reedsport, Newport, Lincoln City, and Coos Bay.
 
-## About Tim Davis
-Tim Davis is a U.S. military veteran who founded Rain or Shine Roofing on a simple idea: treat every roof like it's going on his own house. With over 30 years of roofing experience specializing in low-slope roofing and all-pitch architectural fiberglass installation, Tim knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Tim is on every job — from the first inspection to the final walkthrough. When you call (541) 606-3306, you're talking to the person who will be standing on your roof.
+## About Tim
+Tim is a U.S. military veteran who founded Rain or Shine Roofing on a simple idea: treat every roof like it's going on his own house. With over 30 years of roofing experience specializing in low-slope roofing and all-pitch architectural fiberglass installation, Tim knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Tim is on every job — from the first inspection to the final walkthrough. When you call (541) 606-3306, you're talking to the person who will be standing on your roof.
 
 ## Services
 
 ### Residential Roofing
-Full residential roof installation, replacement, and repair for single-family homes across Springfield, Eugene, and the Oregon I-5 corridor. Specializing in steep-pitch and cut-up roofs from 4/12 ranch-style to 12/12 Craftsman multi-plane builds. Every re-roof includes tear-off, deck and sheathing inspection, ice-and-water shield, synthetic underlayment, new flashing, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Typical cost range: $8,000–$18,000.
+Full residential roof installation, replacement, and repair for single-family homes across Springfield, Eugene, and the Oregon I-5 corridor. Specializing in steep-pitch and cut-up roofs from 4/12 ranch-style to 12/12 Craftsman multi-plane builds. Every re-roof includes tear-off, deck and sheathing inspection, ice-and-water shield, synthetic underlayment, new flashing, professionally installed shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Typical cost range: $8,000–$18,000.
 
 ### Commercial Roofing
 Durable, code-compliant commercial roof systems for shops, warehouses, retail, office, and multi-unit properties throughout the Willamette Valley. TPO flat and low-slope expertise, with installations scheduled around your business hours to minimize disruption.
@@ -49,7 +49,7 @@ Q: Do you offer emergency roof repair?
 A: Yes. Rain or Shine Roofing is available 24 hours a day Monday through Saturday and 10 AM to 6 PM on Sunday for emergency roof repair across Springfield, Eugene, and the Oregon Coast. Active leaks and storm damage are top priority — we tarp and stabilize fast to prevent interior damage.
 
 Q: What's the difference between asphalt shingles and TPO roofing?
-A: Asphalt shingles are the standard for sloped residential roofs — affordable, durable in Oregon's wet climate, and available in dozens of colors. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions.
+A: Asphalt shingles are the standard for sloped residential roofs — affordable, durable in Oregon's wet climate, and available in several colors. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions.
 
 Q: How long does a full roof replacement take?
 A: A typical single-family home tear-off and asphalt shingle replacement in Springfield takes one to three days, weather permitting. Larger homes, multi-layer tear-offs, or complex cut-up roofs can take up to a week.
@@ -58,7 +58,7 @@ Q: Do you provide free estimates?
 A: Yes. All estimates from Rain or Shine Roofing are free and include a full on-site inspection, written scope of work, material recommendations, and itemized pricing. No obligation, no pressure.
 
 Q: What's included in a residential roof replacement?
-A: Tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, manufacturer-approved shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. Warranty paperwork is delivered at the final walkthrough.
+A: Tear-off of the existing roof, deck and sheathing inspection, ice and water shield in vulnerable areas, synthetic underlayment, new flashing around penetrations, drip edge, professionally installed shingles, ridge ventilation, and full jobsite cleanup with magnetic nail sweep. The job ends with a final property walkthrough in person.
 
 Q: How often should a residential roof be replaced in Oregon?
 A: Most asphalt shingle roofs in Oregon last 20 to 30 years depending on the product line, ventilation, and moss exposure. Homes under heavy tree cover, north-facing slopes, or coastal wind often need replacement earlier.
@@ -70,7 +70,7 @@ Q: Do you fix roof rot on Oregon homes?
 A: Yes — roof rot repair is a specialty. We don't patch over the damage. The rotted decking is torn out, the moisture source is fixed, and the assembly is rebuilt correctly so it doesn't come back.
 
 ## Certifications & Credentials
-- Oregon CCB #198825
+- Oregon State Contractor License #158625
 - Licensed, bonded, and insured
 - Residential and commercial roofing contractor
 - Owner-operated since founding

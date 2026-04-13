@@ -2,8 +2,8 @@
 /**
  * About — Rain or Shine Roofing
  */
-$pageTitle       = "About Rain or Shine Roofing | Tim Davis, Owner | Springfield, OR";
-$pageDescription = "Meet Tim Davis, owner of Rain or Shine Roofing in Springfield, OR. Licensed, insured, and owner-operated roofing contractor serving Oregon's I-5 corridor and coast 24/6. Free estimates.";
+$pageTitle       = "About Rain or Shine Roofing | Tim, Owner | Springfield, OR";
+$pageDescription = "Meet Tim, owner of Rain or Shine Roofing in Springfield, OR. Licensed, insured, and owner-operated roofing contractor serving Oregon's I-5 corridor and coast 24/6. Free estimates.";
 $canonicalUrl    = "https://rainorshine-roofing.com/about";
 $ogImage         = "https://i.imgur.com/bq3osMY.png";
 $currentPage     = "about";
@@ -36,14 +36,15 @@ $schemaMarkup = <<<JSON
       },
       "founder": {
         "@type": "Person",
-        "name": "Tim Davis"
+        "name": "Tim"
       },
-      "description": "Owner-operated roofing contractor based in Springfield, Oregon, serving a 100-mile radius across the I-5 corridor and Oregon Coast. Residential and commercial roofing, tear-offs, and rot repair. Veteran-owned and operated."
+      "description": "Owner-operated roofing contractor based in Springfield, Oregon (Oregon State Contractor License #158625), serving a 100-mile radius across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast. Residential and commercial roofing, tear-offs, and rot repair. Veteran-owned and operated.",
+      "license": "OR #158625"
     },
     {
       "@type": "Person",
-      "@id": "https://rainorshine-roofing.com/about#tim-davis",
-      "name": "Tim Davis",
+      "@id": "https://rainorshine-roofing.com/about#tim",
+      "name": "Tim",
       "jobTitle": "Founder & Lead Roofer",
       "worksFor": { "@id": "https://rainorshine-roofing.com/#organization" },
       "image": "https://i.imgur.com/bq3osMY.png",
@@ -62,6 +63,7 @@ $schemaMarkup = <<<JSON
         "addressCountry": "US"
       },
       "priceRange": "\$\$",
+      "license": "OR #158625",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
@@ -81,17 +83,18 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== PAGE HERO ========== -->
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.88) 0%, rgba(0,45,122,0.74) 60%, rgba(0,71,187,0.62) 100%), url('https://i.imgur.com/bq3osMY.png');">
     <div class="page-hero-inner">
+      <img src="https://i.imgur.com/KunCdx5.png" alt="Rain or Shine Roofing logo" style="max-height:80px;width:auto;margin-bottom:var(--space-md);" width="200" height="80" loading="eager">
       <span class="eyebrow-label">Owner-Operated Since Day One</span>
       <h1>About Rain or Shine Roofing</h1>
-      <p class="lead">Tim Davis runs Rain or Shine Roofing out of Springfield, Oregon &mdash; an owner-operated roofing contractor covering a 100-mile radius of the I-5 corridor and the Oregon Coast, 24 hours a day, six days a week.</p>
+      <p class="lead">Tim runs Rain or Shine Roofing out of Springfield, Oregon &mdash; an owner-operated roofing contractor covering the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast, 24 hours a day, six days a week.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Get a Free Estimate
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -114,7 +117,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>A Local Oregon Roofer with a 100-Mile Reach</h2>
-        <p>Rain or Shine Roofing is a licensed and insured roofing company based in Springfield, Oregon, founded and operated by Tim Davis. Tim and his crew install, replace, and repair residential and commercial roofs across Eugene, the I-5 corridor from Albany to Roseburg, and Oregon Coast communities from Florence to Coos Bay &mdash; all within a 100-mile radius of Springfield.</p>
+        <p>Rain or Shine Roofing is a licensed and insured roofing company based in Springfield, Oregon (Oregon State Contractor License #158625), founded and operated by Tim. Tim and his crew install, replace, and repair residential and commercial roofs across the Eugene-Springfield area, the Willamette Valley from Albany to Roseburg, and Oregon Coast communities from Florence to Coos Bay &mdash; all within a 100-mile radius of Springfield.</p>
         <p>Every project starts with a free on-site inspection and a written estimate. No pressure, no sales pitch, no surprise line items after the job starts. Just a roofer who shows up when he says he will, does the work he wrote down, and stands behind it when the weather turns.</p>
       </div>
     </div>
@@ -125,17 +128,17 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis, owner of Rain or Shine Roofing, working on a residential roof in Springfield Oregon" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/QqH4mn0.jpeg" alt="Tim, owner of Rain or Shine Roofing, Springfield Oregon" width="900" height="700" loading="lazy">
         </div>
         <div>
           <span class="eyebrow-label">Meet the Owner</span>
-          <h2 class="section-title">Tim Davis &mdash; On Every Job, Every Day</h2>
+          <h2 class="section-title">Tim &mdash; On Every Job, Every Day</h2>
           <p class="section-subtitle">Over 30 years on Oregon roofs, and the same rule on day one as today: treat every roof like it&rsquo;s going on my own house.</p>
-          <p>A U.S. military veteran, Tim Davis founded Rain or Shine Roofing with a simple idea: homeowners and business owners deserve a roofer who actually shows up on the roof. Veteran-owned and operated from day one. Not a salesperson in a polo shirt, not a project manager you&rsquo;ll never meet twice &mdash; the owner, with his tools, climbing the same ladder as his crew.</p>
+          <p>A U.S. military veteran, Tim founded Rain or Shine Roofing with a simple idea: homeowners and business owners deserve a roofer who actually shows up on the roof. Veteran-owned and operated from day one. Not a salesperson in a polo shirt, not a project manager you&rsquo;ll never meet twice &mdash; the owner, with his tools, climbing the same ladder as his crew.</p>
           <p>That&rsquo;s how Rain or Shine has operated from the first job to the most recent. Tim inspects every roof, writes every estimate, and runs every installation. When you call (541) 606-3306, you&rsquo;re talking to the person who will be standing on your roof &mdash; not a call center.</p>
           <div class="owner-sig">
-            <strong>Tim Davis</strong>
-            <span>Owner &amp; Lead Roofer &middot; CCB #198825</span>
+            <strong>Tim</strong>
+            <span>Owner &amp; Lead Roofer &middot; Oregon State Contractor License #158625</span>
           </div>
         </div>
       </div>
@@ -186,7 +189,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="card">
           <span class="card-icon"><i data-lucide="shield" width="28" height="28" aria-hidden="true"></i></span>
           <h3>Veteran-Owned Business</h3>
-          <p>Tim Davis is a U.S. military veteran. Rain or Shine Roofing is veteran-owned and operated &mdash; bringing the same discipline, reliability, and commitment to every job.</p>
+          <p>Tim is a U.S. military veteran. Rain or Shine Roofing is veteran-owned and operated &mdash; bringing the same discipline, reliability, and commitment to every job.</p>
         </div>
         <div class="card">
           <span class="card-icon"><i data-lucide="map-pin" width="28" height="28" aria-hidden="true"></i></span>
@@ -214,7 +217,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <h2 class="section-title">Finished the Right Way &mdash; Every Time</h2>
           <p class="section-subtitle">Oregon weather is unforgiving. A roof that looks finished isn&rsquo;t the same as a roof that performs in February.</p>
           <p>Every Rain or Shine install follows the same standard: synthetic underlayment, ice-and-water shield at eaves and penetrations, proper drip edge and flashing, ridge ventilation to match the soffit intake, and manufacturer-approved fasteners. The details that water finds in a Pacific Northwest winter are the ones we get right on the dry days.</p>
-          <p>Cleanup is the same story. Magnetic nail sweeps, drainage checks, property walk-throughs, and final documentation handed over in person at the end of the job. The kitchen is the last place we stand before we leave.</p>
+          <p>Cleanup is the same story. Magnetic nail sweeps, a final property walk-through, and a face-to-face handoff at the end of the job. The kitchen is the last place we stand before we leave.</p>
           <p><a href="/service-area" class="btn-secondary" style="margin-top: var(--space-md);">
             <i data-lucide="map" width="16" height="16" aria-hidden="true"></i>
             View Our Service Area
@@ -227,15 +230,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Put a Local Roofer on the Job</h2>
-    <p>Springfield, Eugene, the I-5 corridor, and the Oregon Coast. Free estimates, honest answers, and a crew that stands behind the work when the weather turns.</p>
+    <p>Call today and a professional roofer will get back to you right away. Free estimates across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; rain or shine.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
       <a href="/services" class="btn-secondary on-dark">
         Explore Our Services

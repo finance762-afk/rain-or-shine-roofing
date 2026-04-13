@@ -8,7 +8,7 @@
     <image:image>
       <image:loc>https://i.imgur.com/TcjRAxN.png</image:loc>
       <image:title>Rain or Shine Roofing hero image — Springfield, OR roofing contractor</image:title>
-      <image:caption>Rain or Shine Roofing serves Springfield, Eugene, and a 100-mile radius across the I-5 corridor and Oregon Coast.</image:caption>
+      <image:caption>Rain or Shine Roofing serves the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast within a 100-mile radius.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://i.imgur.com/KunCdx5.png</image:loc>
@@ -16,14 +16,19 @@
       <image:caption>Official logo of Rain or Shine Roofing, Springfield, Oregon.</image:caption>
     </image:image>
     <image:image>
-      <image:loc>https://i.imgur.com/bq3osMY.png</image:loc>
-      <image:title>Tim Davis working on a residential roof in Springfield, Oregon</image:title>
-      <image:caption>Owner Tim Davis installing an asphalt shingle roof on a Springfield, Oregon home.</image:caption>
+      <image:loc>https://i.imgur.com/QqH4mn0.jpeg</image:loc>
+      <image:title>Tim, owner of Rain or Shine Roofing</image:title>
+      <image:caption>Tim, owner of Rain or Shine Roofing in Springfield, Oregon.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/sfxIMf3.jpeg</image:loc>
+      <image:title>Tim on a roof in Oregon</image:title>
+      <image:caption>Tim, lead roofer at Rain or Shine Roofing, on a residential roof in Oregon.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://i.imgur.com/yX4DOpF.png</image:loc>
-      <image:title>Completed Rain or Shine Roofing project in Lane County, Oregon</image:title>
-      <image:caption>Finished residential roof replacement by Rain or Shine Roofing in Lane County, Oregon.</image:caption>
+      <image:title>Completed Rain or Shine Roofing project in the Willamette Valley, Oregon</image:title>
+      <image:caption>Finished residential roof replacement by Rain or Shine Roofing in the Willamette Valley.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://i.imgur.com/dbzzO8P.png</image:loc>
@@ -35,9 +40,9 @@
   <url>
     <loc>https://rainorshine-roofing.com/about</loc>
     <image:image>
-      <image:loc>https://i.imgur.com/bq3osMY.png</image:loc>
-      <image:title>Tim Davis, owner of Rain or Shine Roofing</image:title>
-      <image:caption>Tim Davis, founder and lead roofer at Rain or Shine Roofing in Springfield, Oregon.</image:caption>
+      <image:loc>https://i.imgur.com/QqH4mn0.jpeg</image:loc>
+      <image:title>Tim, owner of Rain or Shine Roofing</image:title>
+      <image:caption>Tim, founder and lead roofer at Rain or Shine Roofing in Springfield, Oregon.</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://i.imgur.com/yX4DOpF.png</image:loc>
@@ -54,9 +59,38 @@
   <url>
     <loc>https://rainorshine-roofing.com/services/residential-roofing</loc>
     <image:image>
-      <image:loc>https://i.imgur.com/bq3osMY.png</image:loc>
-      <image:title>Residential roof installation in Springfield, Oregon</image:title>
-      <image:caption>Residential asphalt shingle roof installation by Rain or Shine Roofing in Springfield, Oregon.</image:caption>
+      <image:loc>https://i.imgur.com/DmUXr1D.jpeg</image:loc>
+      <image:title>Residential red asphalt shingle roof by Rain or Shine Roofing</image:title>
+      <image:caption>Finished red asphalt shingle residential roof installed by Rain or Shine Roofing in Oregon.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/BIxpP1I.jpeg</image:loc>
+      <image:title>Roofing supplies staged on a residential roof</image:title>
+      <image:caption>Roofing materials staged on an Oregon residential roof during a Rain or Shine Roofing tear-off.</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://rainorshine-roofing.com/services/commercial-roofing</loc>
+    <image:image>
+      <image:loc>https://i.imgur.com/shggGyN.jpeg</image:loc>
+      <image:title>Commercial roofing project by Rain or Shine Roofing</image:title>
+      <image:caption>Completed commercial roof by Rain or Shine Roofing in Oregon.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/FHBhLTP.jpeg</image:loc>
+      <image:title>Commercial roof before replacement</image:title>
+      <image:caption>Commercial roof before replacement by Rain or Shine Roofing.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/i2XhvO4.jpeg</image:loc>
+      <image:title>Commercial roof after replacement</image:title>
+      <image:caption>Commercial roof after replacement by Rain or Shine Roofing.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/ZgpTzR1.jpeg</image:loc>
+      <image:title>Commercial roof project in Oregon</image:title>
+      <image:caption>Rain or Shine Roofing commercial roofing project in the Willamette Valley.</image:caption>
     </image:image>
   </url>
 
@@ -65,7 +99,7 @@
     <image:image>
       <image:loc>https://i.imgur.com/yX4DOpF.png</image:loc>
       <image:title>Rain or Shine Roofing project in the Willamette Valley</image:title>
-      <image:caption>Completed roofing project within the Rain or Shine Roofing 100-mile service area.</image:caption>
+      <image:caption>Completed roofing project within the Rain or Shine Roofing 100-mile service area covering the Willamette Valley and Oregon Coast.</image:caption>
     </image:image>
   </url>
 

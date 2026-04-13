@@ -19,6 +19,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="error-section">
     <div class="container">
       <div class="error-inner">
+        <img src="https://i.imgur.com/KunCdx5.png" alt="Rain or Shine Roofing logo" style="max-height:80px;width:auto;margin-bottom:var(--space-md);" width="200" height="80" loading="eager">
         <div class="thank-you-icon">
           <i data-lucide="check-circle-2" width="96" height="96" aria-hidden="true"></i>
         </div>

@@ -89,13 +89,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <h1>Asphalt Shingle Roofing in Springfield, OR</h1>
       <p class="lead">Malarkey limited lifetime architectural laminated fiberglass shingles with built-in Scotchgard moss protection &mdash; installed correctly, with proper underlayment, flashing, and ventilation for Oregon&rsquo;s wet winters.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Free Shingle Estimate
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>How Much Does an Asphalt Shingle Roof Cost in Oregon?</h2>
-        <p>Asphalt shingle roof replacements in Springfield, Oregon typically run <strong>$4 to $7 per square foot</strong> installed &mdash; or roughly <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. Rain or Shine Roofing installs Malarkey limited lifetime architectural laminated fiberglass shingles exclusively for pitched residential roofs. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth &mdash; a critical advantage in Oregon&rsquo;s damp climate.</p>
+        <p>Asphalt shingle roof replacements in Springfield, Oregon typically run <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. Rain or Shine Roofing installs Malarkey limited lifetime architectural laminated fiberglass shingles exclusively for pitched residential roofs. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth &mdash; a critical advantage in Oregon&rsquo;s damp climate.</p>
 
       </div>
     </div>
@@ -134,8 +134,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div>
           <h2 class="section-title">Why Asphalt Still Dominates Pacific NW Roofs</h2>
-          <p>For most homes in Springfield, Eugene, and the I-5 corridor, Malarkey architectural laminated fiberglass shingles are the right answer. They&rsquo;re affordable, come in dozens of colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
-          <p>The difference between a shingle roof that lasts 15 years and one that lasts 30 isn&rsquo;t the shingle &mdash; it&rsquo;s the install. Flashing details, underlayment, ventilation, and nailing pattern all determine how the roof ages. Rain or Shine installs every Malarkey shingle roof to manufacturer spec, not the shortcut version.</p>
+          <p>For most homes in Springfield, Eugene, and the I-5 corridor, Malarkey architectural laminated fiberglass shingles are the right answer. They&rsquo;re affordable, come in several colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
+          <p>The difference between a shingle roof that lasts 15 years and one that lasts 30 isn&rsquo;t the shingle &mdash; it&rsquo;s the install. Flashing details, underlayment, ventilation, and nailing pattern all determine how the roof ages. Rain or Shine installs every Malarkey shingle roof with hands-on workmanship and no shortcuts.</p>
         </div>
       </div>
     </div>
@@ -166,8 +166,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         </div>
         <div class="benefit-item">
           <span class="benefit-icon"><i data-lucide="palette" width="24" height="24" aria-hidden="true"></i></span>
-          <h3>Color and Style Options</h3>
-          <p>Dozens of color blends and textured profiles to match any Oregon home &mdash; from classic earth tones to modern grays and weathered wood looks.</p>
+          <h3>Color Options</h3>
+          <p>Several color blends and textured profiles to match any Oregon home &mdash; from classic earth tones to modern grays and weathered wood looks.</p>
         </div>
       </div>
     </div>
@@ -199,7 +199,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">4</div>
           <h3>Shingle Install</h3>
-          <p>Starter course, field shingles nailed to manufacturer spec, ridge cap, and ridge ventilation. Then cleanup and final walk.</p>
+          <p>Starter course, field shingles nailed with professional workmanship, ridge cap, and ridge ventilation. Then cleanup and final walk.</p>
         </div>
       </div>
     </div>
@@ -266,16 +266,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
-    <h2>Ready for a New Shingle Roof?</h2>
-    <p>Free on-site inspection, honest material recommendation, and a written estimate you can take to the bank.</p>
+    <h2>Call for Your New Shingle Roof Estimate</h2>
+    <p>Call today and a professional roofer will get back to you right away. Free on-site inspection, honest material recommendation, and a detailed written proposal.</p>
+    <a href="tel:+15416063306" class="cta-phone">
+      <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
+      (541) 606-3306
+    </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
-      </a>
-      <a href="tel:+15416063306" class="btn-secondary on-dark">
+      <a href="tel:+15416063306" class="btn-primary on-dark">
         <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-        Call (541) 606-3306
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>

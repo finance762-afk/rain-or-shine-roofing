@@ -89,13 +89,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <h1>Roof Rot Repair in Springfield, OR</h1>
       <p class="lead">Rotted sheathing, decking, fascia, and rafter repair &mdash; plus the flashing and ventilation fixes that stop the moisture from coming back.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Free Rot Inspection
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -134,7 +134,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis inspecting rotted sheathing during a roof rot repair job in Oregon" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim inspecting rotted sheathing during a roof rot repair job in Oregon" width="900" height="700" loading="lazy">
         </div>
         <div>
           <h2 class="section-title">Where Rot Shows Up First</h2>
@@ -268,15 +268,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Spotted Soft Decking or a Sagging Fascia?</h2>
-    <p>Get a free rot inspection &mdash; we&rsquo;ll document the damage, trace the moisture source, and write up a targeted repair scope. No pressure, no upsell.</p>
+    <p>Call today and a professional roofer will get back to you right away &mdash; free rot inspection, moisture source traced, and a detailed written proposal for a targeted repair. No pressure, no upsell.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Schedule an Inspection
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>

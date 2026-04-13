@@ -65,14 +65,15 @@ $schemaMarkup = <<<JSON
       ],
       "founder": {
         "@type": "Person",
-        "name": "Tim Davis"
+        "name": "Tim"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
         "reviewCount": "27"
       },
-      "veteranOwned": true
+      "veteranOwned": true,
+      "license": "OR #158625"
     },
     {
       "@type": "WebSite",
@@ -110,7 +111,7 @@ $schemaMarkup = <<<JSON
           "name": "What's the difference between asphalt shingles and TPO roofing?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Asphalt shingles are the standard for sloped residential roofs — affordable, durable in Oregon's wet climate, and available in dozens of colors and profiles. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions. Rain or Shine Roofing installs both and can help you decide which system is right for your structure."
+            "text": "Asphalt shingles are the standard for sloped residential roofs — affordable, durable in Oregon's wet climate, and available in several colors. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions. Rain or Shine Roofing installs both and can help you decide which system is right for your structure."
           }
         },
         {
@@ -145,15 +146,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="hero" style="background-image: linear-gradient(180deg, rgba(10,23,58,0.55) 0%, rgba(10,23,58,0.78) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="hero-inner">
       <h1>Springfield&rsquo;s 24/7 Roofing Contractor</h1>
-      <p class="hero-subtitle">Residential &amp; commercial roofing across Oregon&rsquo;s I-5 corridor and coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
+      <p class="hero-subtitle">Residential &amp; commercial roofing across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
       <div class="hero-cta-row">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Get a Free Estimate
+        <a href="tel:+15416063306" class="btn-primary">
+          <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+          Call (541) 606-3306
         </a>
-        <a href="/services" class="btn-secondary on-dark">
-          <i data-lucide="hammer" width="18" height="18" aria-hidden="true"></i>
-          Our Services
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -191,7 +192,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
       <div class="section-header">
         <span class="eyebrow-label">Springfield, OR Roofing Specialists</span>
         <h2>Built for Oregon Weather. Backed by a Local Crew.</h2>
-        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon. Owner Tim Davis and his crew install, replace, and repair residential and commercial roofs across the I-5 corridor and Oregon Coast &mdash; Malarkey architectural shingles, TPO flat systems, tear-offs, and rot repair.</p>
+        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon (Oregon State Contractor License #158625). Owner Tim and his crew install, replace, and repair residential and commercial roofs across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; Malarkey architectural shingles, TPO flat systems, tear-offs, and rot repair. From steep-pitch residential roofs to flat commercial systems, Rain or Shine handles every roofing style common across the Pacific Northwest &mdash; the only exception is metal roofing.</p>
       </div>
 
       <!-- ========== SERVICES GRID ========== -->
@@ -265,7 +266,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis, owner of Rain or Shine Roofing, working on a residential roof in Springfield Oregon" width="800" height="600" loading="lazy">
+          <img src="https://i.imgur.com/QqH4mn0.jpeg" alt="Tim, owner of Rain or Shine Roofing in Springfield Oregon" width="800" height="600" loading="lazy">
         </div>
         <div>
           <h2 class="section-title">Why Springfield Trusts Rain or Shine</h2>
@@ -281,7 +282,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
             <li>
               <span class="why-icon"><i data-lucide="user-check" width="22" height="22" aria-hidden="true"></i></span>
               <div>
-                <h4>Owner-Operated by Tim Davis</h4>
+                <h4>Owner-Operated by Tim</h4>
                 <p>Tim is on every job site. You get one point of contact from estimate to final walkthrough &mdash; not a rotating crew of strangers.</p>
               </div>
             </li>
@@ -348,7 +349,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div class="process-step">
           <div class="process-num">3</div>
           <h3>Professional Installation</h3>
-          <p>Tim&rsquo;s crew installs the roof with proper underlayment, flashing, and ventilation &mdash; to manufacturer spec every time.</p>
+          <p>Tim&rsquo;s crew installs the roof with proper underlayment, flashing, and ventilation &mdash; hands-on craftsmanship, no shortcuts, every time.</p>
         </div>
         <div class="process-step">
           <div class="process-num">4</div>
@@ -374,7 +375,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <img src="https://i.imgur.com/dbzzO8P.png" alt="Finished roofing job showing new asphalt shingles on Lane County home" width="800" height="600" loading="lazy">
         </div>
         <div class="gallery-item">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis working on a roof replacement project in Oregon" width="800" height="600" loading="lazy">
+          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim working on a roof replacement project in Oregon" width="800" height="600" loading="lazy">
         </div>
       </div>
     </div>
@@ -385,15 +386,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split-reverse" data-animate>
         <div class="about-img">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim Davis, owner and lead roofer at Rain or Shine Roofing Springfield Oregon" width="800" height="1000" loading="lazy">
+          <img src="https://i.imgur.com/sfxIMf3.jpeg" alt="Tim, owner and lead roofer at Rain or Shine Roofing, on a roof in Oregon" width="800" height="1000" loading="lazy">
         </div>
         <div>
-          <h2 class="section-title">Meet Tim Davis</h2>
+          <h2 class="section-title">Meet Tim</h2>
           <p class="section-subtitle">The roofer behind Rain or Shine &mdash; on every job, every day.</p>
           <p>A U.S. military veteran, Tim founded Rain or Shine Roofing with a simple idea: treat every roof like it&rsquo;s going on his own house. That means real inspections, honest estimates, and a crew that&rsquo;s in it for the long haul &mdash; not the next up-sell.</p>
           <p>After over 30 years on Oregon roofs, Tim knows the weather here. He knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Rain or Shine Roofing brings that experience to every job across the I-5 corridor and the Oregon Coast.</p>
           <div class="owner-sig">
-            <strong>Tim Davis</strong>
+            <strong>Tim</strong>
             <span>Owner &amp; Lead Roofer &middot; CCB #198825</span>
           </div>
           <div style="margin-top: var(--space-xl);">
@@ -430,7 +431,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>What&rsquo;s the difference between asphalt shingles and TPO roofing?</summary>
           <div class="faq-answer">
-            Asphalt shingles are the standard for sloped residential roofs &mdash; affordable, durable in Oregon&rsquo;s wet climate, and available in dozens of colors. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions. Rain or Shine Roofing installs both and can help you decide which system fits your structure.
+            Asphalt shingles are the standard for sloped residential roofs &mdash; affordable, durable in Oregon&rsquo;s wet climate, and available in several colors. TPO (Thermoplastic Polyolefin) is a single-ply membrane used on flat and low-slope roofs, mostly on commercial buildings, shops, and additions. Rain or Shine Roofing installs both and can help you decide which system fits your structure.
           </div>
         </details>
         <details class="faq-item">
@@ -452,15 +453,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Ready to Protect Your Home?</h2>
-    <p>Get a free roof inspection and written estimate from a Springfield roofer who answers his own phone &mdash; rain or shine.</p>
+    <p>Call today and a professional roofer will get back to you right away &mdash; free inspection, written estimate, rain or shine.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Free Estimate
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
       <a href="/services" class="btn-secondary on-dark">
         Explore All Services

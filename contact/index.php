@@ -33,6 +33,7 @@ $schemaMarkup = <<<JSON
         "addressCountry": "US"
       },
       "priceRange": "\$\$",
+      "license": "OR #158625",
       "openingHoursSpecification": [
         {
           "@type": "OpeningHoursSpecification",
@@ -66,13 +67,14 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== PAGE HERO ========== -->
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.88) 0%, rgba(0,45,122,0.74) 60%, rgba(0,71,187,0.62) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="page-hero-inner">
+      <img src="https://i.imgur.com/KunCdx5.png" alt="Rain or Shine Roofing logo" style="max-height:80px;width:auto;margin-bottom:var(--space-md);" width="200" height="80" loading="eager">
       <span class="eyebrow-label">Free Estimates. No Pressure.</span>
       <h1>Contact Rain or Shine Roofing</h1>
-      <p class="lead">Tim answers his own phone. Call (541) 606-3306 for a free on-site inspection and written estimate, or send a message below and we&rsquo;ll get back to you the same day.</p>
+      <p class="lead">Calling is the fastest way to reach us &mdash; Tim answers his own phone. Call (541) 606-3306 for a free on-site inspection and written proposal, and a professional roofer will get back to you right away.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
         </a>
         <a href="mailto:tim@expertroofer.net" class="btn-secondary on-dark">
           <i data-lucide="mail" width="18" height="18" aria-hidden="true"></i>
@@ -158,7 +160,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <div>
           <span class="eyebrow-label">Reach Us Direct</span>
           <h2 class="section-title">Call, Email, or Stop By</h2>
-          <p class="section-subtitle">Rain or Shine Roofing is based in Springfield, Oregon and serves a 100-mile radius of the I-5 corridor and Oregon Coast.</p>
+          <p class="section-subtitle">Rain or Shine Roofing is based in Springfield, Oregon (Oregon State Contractor License #158625) and serves the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast. Every project begins with a thorough inspection and a detailed written proposal &mdash; so you know exactly what to expect before any work starts.</p>
 
           <ul class="contact-info">
             <li>
@@ -226,15 +228,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Rain or Shine, We&rsquo;re Ready</h2>
-    <p>From a quick repair to a full commercial re-roof &mdash; get a straight answer, a written estimate, and a Springfield roofer who actually shows up.</p>
+    <p>Call today and a professional roofer will get back to you right away &mdash; straight answers, a detailed written proposal, and a Springfield roofer who actually shows up.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/services" class="btn-primary on-dark">
-        <i data-lucide="hammer" width="18" height="18" aria-hidden="true"></i>
-        Our Services
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
       <a href="/service-area" class="btn-secondary on-dark">
         Service Area

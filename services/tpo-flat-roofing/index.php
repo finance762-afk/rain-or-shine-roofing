@@ -87,15 +87,15 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="page-hero-inner">
       <span class="eyebrow-label">Flat &amp; Low-Slope Commercial Systems</span>
       <h1>TPO Flat Roofing in Springfield, OR</h1>
-      <p class="lead">Single-ply thermoplastic membrane with heat-welded seams &mdash; Tim Davis has spent over 30 years specializing in low-slope systems like this one. The industry standard for flat and low-slope commercial roofs across Oregon.</p>
+      <p class="lead">Single-ply thermoplastic membrane with heat-welded seams &mdash; Tim has spent over 30 years specializing in low-slope systems like this one. The industry standard for flat and low-slope commercial roofs across Oregon.</p>
       <div class="page-hero-ctas">
-        <a href="/contact" class="btn-primary">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Get a TPO Quote
-        </a>
-        <a href="tel:+15416063306" class="btn-secondary on-dark">
+        <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          (541) 606-3306
+          Call (541) 606-3306
+        </a>
+        <a href="/contact" class="btn-secondary on-dark">
+          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
+          Free Estimate
         </a>
       </div>
     </div>
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What TPO Flat Roofing Costs in Oregon</h2>
-        <p>TPO flat roof installations in Springfield, Oregon typically run <strong>$5 to $10 per square foot</strong> installed, including insulation, membrane, flashing, and tear-off. Membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition all affect pricing. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement. Rain or Shine Roofing specializes in TPO flat roofing across Springfield, Eugene, and the surrounding 100-mile area. Owner Tim Davis has over 30 years of hands-on low-slope experience &mdash; this is what he&rsquo;s known for.</p>
+        <p>TPO flat roof installations in Springfield, Oregon are priced based on membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement including insulation, membrane, flashing, and tear-off. Rain or Shine Roofing specializes in TPO flat roofing across Springfield, OR, the Willamette Valley, and the Oregon Coast. Owner Tim has over 30 years of hands-on low-slope experience &mdash; this is what he&rsquo;s known for.</p>
 
         <div class="answer-block">
           <h3>Why is TPO the standard for flat roofs?</h3>
@@ -277,16 +277,16 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
-    <h2>Need a TPO Flat Roof Quote?</h2>
-    <p>Free on-site inspection, core test if needed, and a written proposal that covers membrane grade, insulation, and every flashing detail.</p>
+    <h2>Call for Your TPO Flat Roof Estimate</h2>
+    <p>Call today and a professional roofer will get back to you right away. Free on-site inspection, core test if needed, and a detailed written proposal that covers membrane grade, insulation, and every flashing detail.</p>
     <a href="tel:+15416063306" class="cta-phone">
       <i data-lucide="phone" width="28" height="28" aria-hidden="true"></i>
       (541) 606-3306
     </a>
     <div class="cta-buttons">
-      <a href="/contact" class="btn-primary on-dark">
-        <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-        Request a Commercial Quote
+      <a href="tel:+15416063306" class="btn-primary on-dark">
+        <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+        Call Now &mdash; Free Estimates
       </a>
     </div>
   </section>
