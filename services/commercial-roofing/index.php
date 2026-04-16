@@ -2,12 +2,12 @@
 /**
  * Commercial Roofing — Rain or Shine Roofing
  */
-$pageTitle       = "Commercial Roofing Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Commercial roofing contractor in Springfield, OR. TPO flat roof installation, tear-off, and repair for warehouses, retail, and multi-unit properties across Eugene and the I-5 corridor. Call (541) 606-3306.";
+$pageTitle       = "Commercial Roofing Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Commercial roofing contractor serving the Willamette Valley and Oregon Coast. TPO flat roof installation, tear-off, and repair for warehouses, retail, and multi-unit properties. Completed the Waterfront Depot restaurant. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/commercial-roofing";
-$ogImage         = "https://i.imgur.com/dbzzO8P.png";
+$ogImage         = "https://i.imgur.com/6ACBQtK.jpeg";
 $currentPage     = "commercial-roofing";
-$heroImage       = "https://i.imgur.com/dbzzO8P.png";
+$heroImage       = "https://i.imgur.com/6ACBQtK.jpeg";
 
 $schemaMarkup = <<<JSON
 {
@@ -36,7 +36,7 @@ $schemaMarkup = <<<JSON
           "addressCountry": "US"
         }
       },
-      "areaServed": "Commercial properties in Springfield, OR, the Willamette Valley, and the Oregon Coast within 100 miles of Springfield",
+      "areaServed": "Commercial properties across the Willamette Valley and Oregon Coast within 100 miles of Springfield, OR",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
@@ -83,11 +83,11 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- ========== PAGE HERO ========== -->
-  <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/dbzzO8P.png');">
+  <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.82) 0%, rgba(0,45,122,0.68) 60%, rgba(0,71,187,0.55) 100%), url('https://i.imgur.com/6ACBQtK.jpeg');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Commercial &amp; Industrial Roofing</span>
-      <h1>Commercial Roofing in Springfield, OR</h1>
-      <p class="lead">Flat and low-slope commercial roof installation, tear-off, and repair for warehouses, retail, office, and multi-unit properties across Springfield, OR, the Willamette Valley, and the Oregon Coast.</p>
+      <h1>Commercial Roofing Across the Willamette Valley</h1>
+      <p class="lead">Flat and low-slope commercial roof installation, tear-off, and repair for warehouses, retail, office, and multi-unit properties across the Willamette Valley and Oregon Coast.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What a Commercial Roof Project Actually Looks Like</h2>
-        <p>Commercial roof installations vary widely based on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. With owner Tim bringing over 30 years of low-slope roofing expertise, Rain or Shine Roofing provides commercial roof installation and repair across Springfield, OR, the Willamette Valley, and the Oregon Coast, from small retail buildings to multi-building industrial parks. Every project begins with a thorough inspection and a detailed written proposal &mdash; so you know exactly what to expect before any work starts. Tim and his crew have completed projects across the region, including the roof of the Waterfront Depot restaurant.</p>
+        <p>Rain or Shine Roofing provides commercial roof installation and repair across the Willamette Valley and Oregon Coast, from small retail buildings to multi-building industrial parks. Commercial roof installations vary widely based on the membrane system (TPO, peel-and-stick, or asphalt), tear-off complexity, insulation, and deck condition. A 10,000 sq ft warehouse re-roof generally takes <strong>one to three weeks</strong> including tear-off, insulation, and membrane install. With owner Tim bringing over 30 years of low-slope roofing expertise, every project begins with a thorough inspection and a detailed written proposal &mdash; so you know exactly what to expect before any work starts. Tim and his crew have completed projects across the region, including the roof of the Waterfront Depot restaurant in Florence.</p>
 
         <div class="answer-block">
           <h3>What commercial roof systems does Rain or Shine install?</h3>
@@ -134,13 +134,13 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/shggGyN.jpeg" alt="Completed commercial roofing project by Rain or Shine Roofing in Oregon" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/6ACBQtK.jpeg" alt="Tim on the roof of the Waterfront Depot restaurant in Florence, Oregon after completing the commercial re-roof" width="900" height="700" loading="lazy">
         </div>
         <div>
-          <span class="eyebrow-label">Built Around Your Business</span>
+          <span class="eyebrow-label">Featured Project &middot; Waterfront Depot, Florence</span>
           <h2 class="section-title">Minimal Disruption. Maximum Durability.</h2>
           <p>Commercial roofs aren&rsquo;t just bigger residential roofs &mdash; they&rsquo;re different systems, with different failure modes, different drainage, and different code requirements. With over 30 years specializing in low-slope and flat-roof systems, Rain or Shine Roofing works with property managers, building owners, and facility teams across the Willamette Valley and Oregon Coast to re-roof, patch, or fully replace commercial buildings without shutting the business down.</p>
-          <p>We stage materials where they won&rsquo;t block entries, protect customer parking, sequence tear-offs to minimize exposure, and clean up every day &mdash; not just at the end. For time-sensitive projects we can work evenings or weekends.</p>
+          <p>Tim and his crew completed the roof of the <strong>Waterfront Depot restaurant</strong> in Florence, Oregon &mdash; a coastal commercial project sequenced around operating hours so the restaurant stayed open throughout the job. We stage materials where they won&rsquo;t block entries, protect customer parking, and clean up every day &mdash; not just at the end. For time-sensitive projects we can work evenings or weekends.</p>
           <div style="margin-top: var(--space-xl);">
             <a href="tel:+15416063306" class="btn-primary">
               <i data-lucide="phone" width="16" height="16" aria-hidden="true"></i>

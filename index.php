@@ -3,8 +3,8 @@
  * Rain or Shine Roofing — Homepage
  * Springfield, OR roofing contractor
  */
-$pageTitle       = "Springfield OR Roofing Contractor | Rain or Shine Roofing";
-$pageDescription = "Licensed roofing contractor in Springfield, OR. 24/7 residential and commercial roofing across Oregon's I-5 corridor and coast. Free estimates. Call (541) 606-3306.";
+$pageTitle       = "Willamette Valley Roofing Contractor | Rain or Shine Roofing";
+$pageDescription = "Licensed roofing contractor serving the Willamette Valley and Oregon Coast. 24/7 residential and commercial roofing. Based in Springfield, OR. Free estimates. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/";
 $ogImage         = "https://i.imgur.com/TcjRAxN.png";
 $currentPage     = "home";
@@ -145,8 +145,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <!-- ========== HERO ========== -->
   <section class="hero" style="background-image: linear-gradient(180deg, rgba(10,23,58,0.55) 0%, rgba(10,23,58,0.78) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="hero-inner">
-      <h1>Springfield&rsquo;s 24/7 Roofing Contractor</h1>
-      <p class="hero-subtitle">Residential &amp; commercial roofing across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
+      <h1>The Willamette Valley&rsquo;s 24/7 Roofing Contractor</h1>
+      <p class="hero-subtitle">Residential &amp; commercial roofing across the Willamette Valley and Oregon Coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
       <div class="hero-cta-row">
         <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
@@ -180,7 +180,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <span class="trust-label">Residential &amp;<br>Commercial</span>
       </div>
       <div class="trust-item">
-        <span class="trust-icon"><i data-lucide="shield" width="24" height="24" aria-hidden="true"></i></span>
+        <span class="trust-icon"><?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/flag-icon.php'; ?></span>
         <span class="trust-label">Veteran<br>Owned</span>
       </div>
     </div>
@@ -190,7 +190,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section>
     <div class="container">
       <div class="section-header">
-        <span class="eyebrow-label">Springfield, OR Roofing Specialists</span>
+        <span class="eyebrow-label">Willamette Valley Roofing Specialists</span>
         <h2>Built for Oregon Weather. Backed by a Local Crew.</h2>
         <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon (Oregon State Contractor License #158625). Owner Tim and his crew install, replace, and repair residential and commercial roofs across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; Malarkey architectural shingles, TPO flat systems, tear-offs, and rot repair. From steep-pitch residential roofs to flat commercial systems, Rain or Shine handles every roofing style common across the Pacific Northwest &mdash; the only exception is metal roofing.</p>
       </div>
@@ -200,7 +200,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <article class="service-card">
           <span class="service-icon"><i data-lucide="home" width="28" height="28" aria-hidden="true"></i></span>
           <h3>Residential Roofing</h3>
-          <p>Full-service roof installation and repair for single-family homes across Springfield, Eugene, and Lane County &mdash; steep pitches, complex rooflines, and wet-weather builds.</p>
+          <p>Full-service roof installation and repair for single-family homes across the Willamette Valley and Oregon Coast &mdash; steep pitches, complex rooflines, and wet-weather builds.</p>
           <a href="/services/residential-roofing" class="service-link">
             Learn More
             <i data-lucide="arrow-right" width="16" height="16" aria-hidden="true"></i>
@@ -269,7 +269,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <img src="https://i.imgur.com/QqH4mn0.jpeg" alt="Tim, owner of Rain or Shine Roofing in Springfield Oregon" width="800" height="600" loading="lazy">
         </div>
         <div>
-          <h2 class="section-title">Why Springfield Trusts Rain or Shine</h2>
+          <h2 class="section-title">Why the Willamette Valley Trusts Rain or Shine</h2>
           <p class="section-subtitle">Owner-operated since day one. No subcontracted crews, no sales pressure &mdash; just a local roofer who shows up when he says he will.</p>
           <ul class="why-list">
             <li>
@@ -297,7 +297,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
               <span class="why-icon"><i data-lucide="map-pin" width="22" height="22" aria-hidden="true"></i></span>
               <div>
                 <h4>Local Oregon Contractor, Not a Franchise</h4>
-                <p>Licensed, bonded, insured (CCB #198825). Springfield-based with a 100-mile radius that covers Eugene, the I-5 corridor, and the Oregon Coast.</p>
+                <p>Licensed, bonded, insured (Oregon State Contractor License #158625). Springfield-based with a 100-mile radius that covers Eugene, the I-5 corridor, and the Oregon Coast.</p>
               </div>
             </li>
           </ul>
@@ -365,18 +365,24 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header" data-animate>
         <h2>Recent Roofing Projects</h2>
-        <p>A look at what we&rsquo;ve been putting down across Springfield, Eugene, and the Oregon Coast.</p>
+        <p>A look at what we&rsquo;ve been putting down across the Willamette Valley and Oregon Coast.</p>
       </div>
       <div class="gallery-grid" data-animate>
         <div class="gallery-item">
-          <img src="https://i.imgur.com/yX4DOpF.png" alt="Completed residential roof replacement project in Springfield Oregon" width="1000" height="750" loading="lazy">
+          <img src="https://i.imgur.com/6ACBQtK.jpeg" alt="Tim on the Waterfront Depot restaurant roof in Florence after a completed commercial re-roof" width="1000" height="750" loading="lazy">
         </div>
         <div class="gallery-item">
-          <img src="https://i.imgur.com/dbzzO8P.png" alt="Finished roofing job showing new asphalt shingles on Lane County home" width="800" height="600" loading="lazy">
+          <img src="https://i.imgur.com/Qi042q3.jpeg" alt="Aerial view of a completed multi-section residential roof in the Willamette Valley" width="1000" height="750" loading="lazy">
         </div>
         <div class="gallery-item">
-          <img src="https://i.imgur.com/bq3osMY.png" alt="Tim working on a roof replacement project in Oregon" width="800" height="600" loading="lazy">
+          <img src="https://i.imgur.com/hK1TyUq.jpeg" alt="Rain or Shine roofer on the ridge with TopShield underlayment during a Willamette Valley install" width="1000" height="750" loading="lazy">
         </div>
+      </div>
+      <div style="text-align:center;margin-top:var(--space-2xl);">
+        <a href="/gallery" class="btn-secondary">
+          <i data-lucide="images" width="18" height="18" aria-hidden="true"></i>
+          See the Full Gallery
+        </a>
       </div>
     </div>
   </section>
@@ -392,10 +398,10 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <h2 class="section-title">Meet Tim</h2>
           <p class="section-subtitle">The roofer behind Rain or Shine &mdash; on every job, every day.</p>
           <p>A U.S. military veteran, Tim founded Rain or Shine Roofing with a simple idea: treat every roof like it&rsquo;s going on his own house. That means real inspections, honest estimates, and a crew that&rsquo;s in it for the long haul &mdash; not the next up-sell.</p>
-          <p>After over 30 years on Oregon roofs, Tim knows the weather here. He knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a kitchen ceiling dry in February. Rain or Shine Roofing brings that experience to every job across the I-5 corridor and the Oregon Coast.</p>
+          <p>After over 30 years on Oregon roofs, Tim knows the weather here. He knows which underlayments hold up through a wet winter, which shingles handle coastal wind, and which flashing details keep a living room ceiling dry in February. Rain or Shine Roofing brings that experience to every job across the Willamette Valley and Oregon Coast.</p>
           <div class="owner-sig">
             <strong>Tim</strong>
-            <span>Owner &amp; Lead Roofer &middot; CCB #198825</span>
+            <span>Owner &amp; Lead Roofer &middot; Oregon State Contractor License #158625</span>
           </div>
           <div style="margin-top: var(--space-xl);">
             <a href="/about" class="btn-primary">
@@ -413,7 +419,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header" data-animate>
         <h2>Roofing Questions We Hear Often</h2>
-        <p>Straight answers to what homeowners in Springfield, Eugene, and Lane County actually ask before hiring a roofer.</p>
+        <p>Straight answers to what homeowners across the Willamette Valley and Oregon Coast actually ask before hiring a roofer.</p>
       </div>
       <div class="faq-list" data-animate>
         <details class="faq-item">

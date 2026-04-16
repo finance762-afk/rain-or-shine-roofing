@@ -2,8 +2,8 @@
 /**
  * Roof Tear-Off & Replacement — Rain or Shine Roofing
  */
-$pageTitle       = "Roof Tear-Off &amp; Replacement Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Complete roof tear-off and replacement in Springfield, OR. Full removal to decking, sheathing repair, and new roof installation across Eugene and the I-5 corridor. Call (541) 606-3306 for a free estimate.";
+$pageTitle       = "Roof Tear-Off &amp; Replacement Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Complete roof tear-off and replacement across the Willamette Valley and Oregon Coast. Full removal to decking, sheathing repair, and new roof installation. Call (541) 606-3306 for a free estimate.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/roof-tear-off-replacement";
 $ogImage         = "https://i.imgur.com/TcjRAxN.png";
 $currentPage     = "roof-tear-off-replacement";
@@ -59,7 +59,7 @@ $schemaMarkup = <<<JSON
           "name": "How long does a full roof tear-off and replacement take?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "A standard single-family tear-off and re-roof in Springfield takes one to three days. Larger homes, two-layer tear-offs, or roofs with extensive deck damage can take up to a full week. Commercial projects are scheduled and phased based on building size and access."
+            "text": "A standard single-family tear-off and re-roof in the Willamette Valley takes one to three days. Larger homes, two-layer tear-offs, or roofs with extensive deck damage can take up to a full week. Commercial projects are scheduled and phased based on building size and access."
           }
         },
         {
@@ -86,7 +86,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Full Removal. No Layer-Overs.</span>
-      <h1>Roof Tear-Off &amp; Replacement in Springfield, OR</h1>
+      <h1>Roof Tear-Off &amp; Replacement Across the Willamette Valley</h1>
       <p class="lead">Complete removal of the existing roof down to the deck &mdash; with sheathing inspection, repair, and a brand-new roof system installed the right way.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>How Much Does a Full Roof Replacement Cost in Oregon?</h2>
-        <p>Complete roof tear-off and replacement in Springfield, Oregon typically runs <strong>$10,000 to $22,000</strong> for a single-family home &mdash; dependent on square footage, pitch, material grade, and the condition of the decking underneath. Tear-off adds roughly <strong>$1,000&ndash;$3,500</strong> over a layer-over install, but it&rsquo;s the only way to guarantee the new roof performs long-term. Rain or Shine Roofing provides complete tear-off and replacement for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area.</p>
+        <p>Rain or Shine Roofing provides complete tear-off and replacement for homeowners and businesses across the Willamette Valley and Oregon Coast. Complete roof tear-off and replacement typically runs <strong>$10,000 to $22,000</strong> for a single-family home &mdash; dependent on square footage, pitch, material grade, and the condition of the decking underneath. Tear-off adds roughly <strong>$1,000&ndash;$3,500</strong> over a layer-over install, but it&rsquo;s the only way to guarantee the new roof performs long-term.</p>
 
         <div class="answer-block">
           <h3>Why not just layer over the old roof?</h3>
@@ -141,6 +141,27 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>Most roof failures in Oregon don&rsquo;t start with the shingles &mdash; they start with decking, flashing, or ventilation that nobody ever looked at. A complete tear-off lets us see everything: rotted sheathing under the eaves, failed ice and water shield in the valleys, cracked plumbing boots, and bad step flashing at dormers and sidewalls.</p>
           <p>We document every issue, show you photos, and either fix it in the original scope or add a written change order before work continues. No mystery, no surprise charges at the end.</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== DECK PREP GALLERY — AFTER STRIP-DOWN ========== -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow-label">Stripped to the Deck</span>
+        <h2>What a Proper Tear-Off Exposes</h2>
+        <p>Every tear-off is also an inspection &mdash; fresh plywood goes down, skylight frames get rebuilt, and flashing details are corrected before the new roof ever starts.</p>
+      </div>
+      <div class="grid-2" data-animate>
+        <figure>
+          <img src="https://i.imgur.com/GACzvIJ.jpeg" alt="Fresh plywood sheathing installed across a roof deck with skylight frames ready for a Rain or Shine Roofing re-roof" width="1000" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Fresh &frac12;&Prime; CDX sheathing with skylight openings framed in.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/KsZid9L.jpeg" alt="Skylight cutout with blue flashing detail during a Rain or Shine Roofing tear-off and replacement" width="1000" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Skylight cutout with new flashing &mdash; the details most leaks come from.</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -230,7 +251,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>How long does a full roof tear-off and replacement take?</summary>
           <div class="faq-answer">
-            A standard single-family tear-off and re-roof in Springfield takes <strong>one to three days</strong>. Larger homes, two-layer tear-offs, or roofs with extensive deck damage can take up to a full week. Commercial projects are scheduled and phased based on building size and access.
+            A standard single-family tear-off and re-roof in the Willamette Valley takes <strong>one to three days</strong>. Larger homes, two-layer tear-offs, or roofs with extensive deck damage can take up to a full week. Commercial projects are scheduled and phased based on building size and access.
           </div>
         </details>
         <details class="faq-item">

@@ -2,8 +2,8 @@
 /**
  * Asphalt Shingle Roofing — Rain or Shine Roofing
  */
-$pageTitle       = "Asphalt Shingle Roofing Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Malarkey architectural laminated fiberglass shingle installation in Springfield, OR. Built-in Scotchgard moss protection. Built for Oregon's wet climate. Call (541) 606-3306.";
+$pageTitle       = "Asphalt Shingle Roofing Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Malarkey architectural laminated fiberglass shingle installation across the Willamette Valley and Oregon Coast. Built-in Scotchgard moss protection. Built for Oregon's wet climate. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/asphalt-shingle-roofing";
 $ogImage         = "https://i.imgur.com/yX4DOpF.png";
 $currentPage     = "asphalt-shingle-roofing";
@@ -36,7 +36,7 @@ $schemaMarkup = <<<JSON
           "addressCountry": "US"
         }
       },
-      "areaServed": "Springfield, Eugene, and Oregon properties within a 100-mile radius",
+      "areaServed": "Willamette Valley, Oregon Coast, and properties within a 100-mile radius of Springfield, OR",
       "aggregateRating": {
         "@type": "AggregateRating",
         "ratingValue": "5.0",
@@ -86,7 +86,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/yX4DOpF.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Malarkey Architectural Shingles</span>
-      <h1>Asphalt Shingle Roofing in Springfield, OR</h1>
+      <h1>Asphalt Shingle Roofing Across the Willamette Valley</h1>
       <p class="lead">Malarkey limited lifetime architectural laminated fiberglass shingles with built-in Scotchgard moss protection &mdash; installed correctly, with proper underlayment, flashing, and ventilation for Oregon&rsquo;s wet winters.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>How Much Does an Asphalt Shingle Roof Cost in Oregon?</h2>
-        <p>Asphalt shingle roof replacements in Springfield, Oregon typically run <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. Rain or Shine Roofing installs Malarkey limited lifetime architectural laminated fiberglass shingles exclusively for pitched residential roofs. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth &mdash; a critical advantage in Oregon&rsquo;s damp climate.</p>
+        <p>Rain or Shine Roofing installs asphalt shingle roofs across the Willamette Valley and Oregon Coast. Asphalt shingle roof replacements typically run <strong>$8,000 to $18,000</strong> for a single-family home depending on material grade, pitch, and tear-off. We install Malarkey limited lifetime architectural laminated fiberglass shingles exclusively for pitched residential roofs. Malarkey shingles feature built-in Scotchgard protector that resists moss and algae growth &mdash; a critical advantage in Oregon&rsquo;s damp climate.</p>
 
       </div>
     </div>
@@ -130,13 +130,34 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/yX4DOpF.png" alt="Completed asphalt shingle roof installation on a Springfield Oregon home" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/yX4DOpF.png" alt="Completed asphalt shingle roof installation on a Willamette Valley home" width="900" height="700" loading="lazy">
         </div>
         <div>
           <h2 class="section-title">Why Asphalt Still Dominates Pacific NW Roofs</h2>
-          <p>For most homes in Springfield, Eugene, and the I-5 corridor, Malarkey architectural laminated fiberglass shingles are the right answer. They&rsquo;re affordable, come in several colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
+          <p>For most homes across the Willamette Valley and Oregon Coast, Malarkey architectural laminated fiberglass shingles are the right answer. They&rsquo;re affordable, come in several colors and profiles, handle wet weather well when installed with proper underlayment, and every local roofer is trained on them, which keeps repair costs low.</p>
           <p>The difference between a shingle roof that lasts 15 years and one that lasts 30 isn&rsquo;t the shingle &mdash; it&rsquo;s the install. Flashing details, underlayment, ventilation, and nailing pattern all determine how the roof ages. Rain or Shine installs every Malarkey shingle roof with hands-on workmanship and no shortcuts.</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ========== MALARKEY ON THE ROOF — IMAGE PAIR ========== -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow-label">Malarkey On The Roof</span>
+        <h2>Underlayment First. Shingles Second. Every Time.</h2>
+        <p>A shingle roof is only as good as what&rsquo;s underneath. Every Rain or Shine install runs synthetic underlayment over the entire deck before a single bundle of Malarkey goes on.</p>
+      </div>
+      <div class="grid-2" data-animate>
+        <figure>
+          <img src="https://i.imgur.com/UTSW4cY.jpeg" alt="Malarkey Highlander AR shingle bundles staged on fresh underlayment during a Rain or Shine Roofing install" width="1000" height="750" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Malarkey Highlander AR bundles staged on synthetic underlayment.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/4HEWi8r.jpeg" alt="Pitched roof underlayment with Malarkey shingle stacks ready for install on a Willamette Valley home" width="1000" height="750" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Underlayment rolled out, shingle bundles set &mdash; day of install.</figcaption>
+        </figure>
       </div>
     </div>
   </section>

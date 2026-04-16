@@ -263,19 +263,19 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header">
         <span class="eyebrow-label">Coverage Map</span>
-        <h2>Centered on Springfield, Oregon</h2>
-        <p>Our base of operations in Springfield puts the entire southern Willamette Valley, I-5 corridor, and Central Oregon Coast inside a single workday&rsquo;s drive.</p>
+        <h2>Across the Willamette Valley &amp; Oregon Coast</h2>
+        <p>Rain or Shine Roofing covers the southern Willamette Valley, the I-5 corridor from Albany to Roseburg, and the Oregon Coast &mdash; all inside a single workday&rsquo;s drive from our Springfield yard.</p>
       </div>
       <div class="map-embed">
         <iframe
-          src="https://www.google.com/maps?q=Springfield,+OR&output=embed"
+          src="https://maps.google.com/maps?q=Willamette+Valley,+Oregon&ll=43.95,-123.35&z=8&output=embed"
           width="100%"
           height="450"
           style="border:0;"
           allowfullscreen=""
           loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"
-          title="Map of Rain or Shine Roofing service area centered on Springfield, Oregon"></iframe>
+          title="Map of Rain or Shine Roofing service area across the Willamette Valley and Oregon Coast"></iframe>
       </div>
     </div>
   </section>

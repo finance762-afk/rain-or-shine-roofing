@@ -24,6 +24,7 @@ $useTyped  = $useTyped  ?? false;
       <ul>
         <li><a href="/">Home</a></li>
         <li><a href="/about">About</a></li>
+        <li><a href="/gallery">Gallery</a></li>
         <li><a href="/service-area">Service Area</a></li>
         <li><a href="/contact">Contact</a></li>
       </ul>
@@ -51,6 +52,7 @@ $useTyped  = $useTyped  ?? false;
   </div>
 
   <div class="entity-block">
+    <?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/flag-icon.php'; ?>
     Rain or Shine Roofing is a veteran-owned, licensed and insured roofing company based in Springfield, Oregon (Oregon State Contractor License #158625), serving the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast. Rain or Shine Roofing specializes in residential roofing, commercial roofing, and low-slope TPO systems. Veteran-Owned Business. Contact: (541) 606-3306 | tim@expertroofer.net | rainorshine-roofing.com.
   </div>
 

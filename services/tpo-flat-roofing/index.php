@@ -2,8 +2,8 @@
 /**
  * TPO Flat Roofing — Rain or Shine Roofing
  */
-$pageTitle       = "TPO Flat Roofing Springfield OR | Rain or Shine Roofing";
-$pageDescription = "TPO single-ply flat roof installation and repair in Springfield, OR. Heat-welded seams, reflective white membrane, and peel-and-stick alternatives for commercial buildings. Call (541) 606-3306.";
+$pageTitle       = "TPO Flat Roofing Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "TPO single-ply flat roof installation and repair across the Willamette Valley and Oregon Coast. Heat-welded seams, reflective white membrane, and peel-and-stick alternatives for commercial buildings. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/tpo-flat-roofing";
 $ogImage         = "https://i.imgur.com/dbzzO8P.png";
 $currentPage     = "tpo-flat-roofing";
@@ -86,7 +86,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/dbzzO8P.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Flat &amp; Low-Slope Commercial Systems</span>
-      <h1>TPO Flat Roofing in Springfield, OR</h1>
+      <h1>TPO Flat Roofing Across the Willamette Valley</h1>
       <p class="lead">Single-ply thermoplastic membrane with heat-welded seams &mdash; Tim has spent over 30 years specializing in low-slope systems like this one. The industry standard for flat and low-slope commercial roofs across Oregon.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>What TPO Flat Roofing Costs in Oregon</h2>
-        <p>TPO flat roof installations in Springfield, Oregon are priced based on membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement including insulation, membrane, flashing, and tear-off. Rain or Shine Roofing specializes in TPO flat roofing across Springfield, OR, the Willamette Valley, and the Oregon Coast. Owner Tim has over 30 years of hands-on low-slope experience &mdash; this is what he&rsquo;s known for.</p>
+        <p>Rain or Shine Roofing specializes in TPO flat roofing across the Willamette Valley and Oregon Coast. TPO flat roof installations are priced based on membrane thickness (45-, 60-, or 80-mil), insulation R-value, and deck condition. A standard 8,000 sq ft commercial roof runs <strong>$40,000 to $80,000</strong> for a full system replacement including insulation, membrane, flashing, and tear-off. Owner Tim has over 30 years of hands-on low-slope experience &mdash; this is what he&rsquo;s known for.</p>
 
         <div class="answer-block">
           <h3>Why is TPO the standard for flat roofs?</h3>

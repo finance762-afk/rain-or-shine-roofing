@@ -44,6 +44,9 @@ $isServiceActive = in_array($currentPage, [
       </li>
 
       <li class="nav-item">
+        <a href="/gallery" class="nav-link"<?php echo $isActive('gallery'); ?>>Gallery</a>
+      </li>
+      <li class="nav-item">
         <a href="/service-area" class="nav-link"<?php echo $isActive('service-area'); ?>>Service Area</a>
       </li>
       <li class="nav-item">

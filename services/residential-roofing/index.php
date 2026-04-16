@@ -2,8 +2,8 @@
 /**
  * Residential Roofing — Rain or Shine Roofing
  */
-$pageTitle       = "Residential Roofing Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Residential roof installation, replacement, and repair in Springfield, OR. Shingle, steep-pitch, and storm damage work across Eugene and the I-5 corridor. Call (541) 606-3306 for a free estimate.";
+$pageTitle       = "Residential Roofing Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Residential roof installation, replacement, and repair across the Willamette Valley and Oregon Coast. Shingle, steep-pitch, and storm damage work from Albany to Roseburg. Call (541) 606-3306 for a free estimate.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/residential-roofing";
 $ogImage         = "https://i.imgur.com/bq3osMY.png";
 $currentPage     = "residential-roofing";
@@ -45,7 +45,7 @@ $schemaMarkup = <<<JSON
     },
     {
       "@type": "HowTo",
-      "name": "How a residential roof replacement works in Springfield, OR",
+      "name": "How a residential roof replacement works in the Willamette Valley",
       "step": [
         { "@type": "HowToStep", "name": "On-Site Inspection", "text": "Full walk-around and in-attic moisture check to document decking, flashing, ventilation, and drainage." },
         { "@type": "HowToStep", "name": "Written Estimate", "text": "Itemized written estimate with materials, labor, disposal, and timeline." },
@@ -96,7 +96,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/bq3osMY.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Residential Roofing Specialists</span>
-      <h1>Residential Roofing in Springfield, OR</h1>
+      <h1>Residential Roofing Across the Willamette Valley</h1>
       <p class="lead">New roof installs, complete re-roofs, and repair work for homes across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; from 4/12 asphalt shingle roofs to steep-pitch specialty builds.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
@@ -128,12 +128,12 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section>
     <div class="container">
       <div class="prose-centered">
-        <h2>What Residential Roofing Costs in Springfield, OR</h2>
-        <p>Most residential asphalt shingle roof replacements in Springfield, Oregon run <strong>$8,000 to $18,000</strong> for a typical single-family home &mdash; a figure driven by square footage, pitch, tear-off complexity, and material grade. Premium architectural shingles on steep pitches land at the higher end. Rain or Shine Roofing provides residential roof installation, complete decking and rot repair, and full re-roof work for homeowners across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; every project begins with a thorough inspection and a detailed written proposal so you know exactly what to expect before any work starts.</p>
+        <h2>What Residential Roofing Costs in the Willamette Valley</h2>
+        <p>Rain or Shine Roofing provides residential roof installation, complete decking and rot repair, and full re-roof work across the Willamette Valley and Oregon Coast. Most residential asphalt shingle roof replacements run <strong>$8,000 to $18,000</strong> for a typical single-family home &mdash; a figure driven by square footage, pitch, tear-off complexity, and material grade. Premium architectural shingles on steep pitches land at the higher end. Every project begins with a thorough inspection and a detailed written proposal so you know exactly what to expect before any work starts.</p>
 
         <div class="answer-block">
           <h3>How long does a residential roof replacement take?</h3>
-          <p>A typical Springfield single-family tear-off and re-roof takes <strong>one to three days</strong>, weather permitting. Larger homes, multi-layer tear-offs, and steep cut-up roofs can run up to a full week. We schedule around Oregon&rsquo;s rain windows and tarp the job each night work isn&rsquo;t finished.</p>
+          <p>A typical single-family tear-off and re-roof in the Willamette Valley takes <strong>one to three days</strong>, weather permitting. Larger homes, multi-layer tear-offs, and steep cut-up roofs can run up to a full week. We schedule around Oregon&rsquo;s rain windows and tarp the job each night work isn&rsquo;t finished.</p>
         </div>
 
         <div class="answer-block">
@@ -189,6 +189,43 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     </div>
   </section>
 
+  <!-- ========== RECENT RESIDENTIAL PROJECTS ========== -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow-label">Recent Residential Projects</span>
+        <h2>Finished Homes, Mid-Install Shots</h2>
+        <p>A snapshot of Willamette Valley homes Rain or Shine has re-roofed recently &mdash; from start-to-finish completed jobs to skylight details and mid-install underlayment.</p>
+      </div>
+      <div class="grid-3" data-animate>
+        <figure>
+          <img src="https://i.imgur.com/NjXkViv.jpeg" alt="Completed residential roof replacement on a Willamette Valley home by Rain or Shine Roofing" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Front view &mdash; completed shingle re-roof.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/5OFixm1.jpeg" alt="Completed single-family home roof replacement by Rain or Shine Roofing with contractor trailer on site" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Jobsite finished &mdash; trailer loaded, roof complete.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/Qi042q3.jpeg" alt="Aerial view of a completed multi-section residential roof by Rain or Shine Roofing" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Aerial &mdash; multi-plane roof, new shingles installed.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/Q0w4WjL.jpeg" alt="Mid-install photograph showing shingles on lower course and underlayment above on a Willamette Valley roof" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Mid-install &mdash; shingles rising from eave, underlayment above.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/8bUmP8J.jpeg" alt="Completed residential roof with skylights and chimney detail by Rain or Shine Roofing" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">Finished low-slope section with skylights and chimney flashing.</figcaption>
+        </figure>
+        <figure>
+          <img src="https://i.imgur.com/GF216VO.jpeg" alt="Close-up of a new skylight installation on a Willamette Valley residential roof" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);text-align:center;color:var(--text-light);font-weight:600;font-size:0.95rem;">New skylight &mdash; flashed, sealed, ready for the shingle field.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
   <!-- ========== MID-PAGE PHONE CTA ========== -->
   <section class="phone-cta-bar">
     <h3>Active Leak or Storm Damage? We&rsquo;re Open.</h3>
@@ -236,7 +273,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header" data-animate>
         <h2>Residential Roofing FAQs</h2>
-        <p>Straight answers to the questions Springfield and Eugene homeowners actually ask before hiring a roofer.</p>
+        <p>Straight answers to the questions Willamette Valley and Oregon Coast homeowners actually ask before hiring a roofer.</p>
       </div>
       <div class="faq-list" data-animate>
         <details class="faq-item">

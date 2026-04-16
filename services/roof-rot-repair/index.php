@@ -2,8 +2,8 @@
 /**
  * Roof Rot Repair — Rain or Shine Roofing
  */
-$pageTitle       = "Roof Rot Repair Springfield OR | Rain or Shine Roofing";
-$pageDescription = "Roof rot repair in Springfield, OR. Rotted decking, sheathing, fascia, and rafter replacement. We fix the source of the leak, not just the symptom. Call (541) 606-3306.";
+$pageTitle       = "Roof Rot Repair Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Roof rot repair across the Willamette Valley and Oregon Coast. Rotted decking, sheathing, fascia, and rafter replacement. We fix the source of the leak, not just the symptom. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services/roof-rot-repair";
 $ogImage         = "https://i.imgur.com/bq3osMY.png";
 $currentPage     = "roof-rot-repair";
@@ -59,7 +59,7 @@ $schemaMarkup = <<<JSON
           "name": "How much does roof rot repair cost?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Targeted rot repair in Springfield typically runs $500 to $3,500 depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts."
+            "text": "Targeted rot repair across the Willamette Valley typically runs $500 to $3,500 depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts."
           }
         },
         {
@@ -86,7 +86,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.72) 60%, rgba(0,71,187,0.58) 100%), url('https://i.imgur.com/bq3osMY.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Moisture Damage Specialists</span>
-      <h1>Roof Rot Repair in Springfield, OR</h1>
+      <h1>Roof Rot Repair Across the Willamette Valley</h1>
       <p class="lead">Rotted sheathing, decking, fascia, and rafter repair &mdash; plus the flashing and ventilation fixes that stop the moisture from coming back.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
@@ -119,7 +119,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="prose-centered">
         <h2>Why Oregon Roofs Rot &mdash; and How We Fix It</h2>
-        <p>Oregon&rsquo;s 40+ inches of annual rainfall, year-round humidity, and long wet winters make rot a near-constant threat to any roof that isn&rsquo;t ventilated, flashed, and drained correctly. Targeted rot repair in Springfield typically runs <strong>$500 to $3,500</strong>, depending on how much wood needs replacement and whether the moisture source also needs correction. Rain or Shine Roofing provides rot repair for homeowners and businesses across Springfield, Eugene, and the surrounding 100-mile area &mdash; decking, sheathing, fascia, soffits, and rafter work.</p>
+        <p>Rain or Shine Roofing provides roof rot repair for homeowners and businesses across the Willamette Valley and Oregon Coast &mdash; decking, sheathing, fascia, soffits, and rafter work. Oregon&rsquo;s 40+ inches of annual rainfall (and 70+ inches on the coast), year-round humidity, and long wet winters make rot a near-constant threat to any roof that isn&rsquo;t ventilated, flashed, and drained correctly. Targeted rot repair typically runs <strong>$500 to $3,500</strong>, depending on how much wood needs replacement and whether the moisture source also needs correction.</p>
 
         <div class="answer-block">
           <h3>What does &ldquo;fixing the source&rdquo; mean?</h3>
@@ -174,8 +174,33 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     </div>
   </section>
 
+  <!-- ========== ROT EXAMPLES GALLERY ========== -->
+  <section>
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow-label">What Rot Actually Looks Like</span>
+        <h2>Examples From Recent Willamette Valley Jobs</h2>
+        <p>Every one of these roofs looked fine from the ground &mdash; until we pulled the shingles back and found what was underneath.</p>
+      </div>
+      <div class="grid-3" data-animate>
+        <figure class="rot-photo">
+          <img src="https://i.imgur.com/3GoORkp.jpeg" alt="Stripped roof deck showing rot damage alongside fresh plywood sheathing during a Willamette Valley rot repair" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);color:var(--text-light);font-weight:600;font-size:0.95rem;">Deck stripped &mdash; rot cut out, fresh plywood going down.</figcaption>
+        </figure>
+        <figure class="rot-photo">
+          <img src="https://i.imgur.com/tn1fUo0.jpeg" alt="Roof rot damage with exposed insulation during a Rain or Shine Roofing tear-out" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);color:var(--text-light);font-weight:600;font-size:0.95rem;">What hides under a failed roof &mdash; moisture-damaged insulation.</figcaption>
+        </figure>
+        <figure class="rot-photo">
+          <img src="https://i.imgur.com/2xp9fow.jpeg" alt="Exposed roof rafters with damaged insulation during a Rain or Shine rot repair job" width="900" height="700" loading="lazy" style="border-radius:var(--radius);">
+          <figcaption style="margin-top:var(--space-sm);color:var(--text-light);font-weight:600;font-size:0.95rem;">Rafters exposed &mdash; we rebuild the assembly from the framing up.</figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
   <!-- ========== PROCESS ========== -->
-  <section class="process-section">
+  <section class="process-section bg-alt">
     <div class="container">
       <div class="section-header" data-animate>
         <h2>How Roof Rot Repair Works</h2>
@@ -222,7 +247,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <details class="faq-item">
           <summary>How much does roof rot repair cost?</summary>
           <div class="faq-answer">
-            Targeted rot repair in Springfield typically runs <strong>$500 to $3,500</strong> depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts.
+            Targeted rot repair across the Willamette Valley typically runs <strong>$500 to $3,500</strong> depending on how much wood needs to be replaced and whether the source (flashing, ventilation, drainage) also needs correction. Small soft spots caught early are at the low end. Extensive sheathing and rafter replacement with fascia and soffit work runs higher. We always provide a written estimate with photos before work starts.
           </div>
         </details>
         <details class="faq-item">

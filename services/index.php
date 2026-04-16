@@ -2,8 +2,8 @@
 /**
  * Services Main — Rain or Shine Roofing
  */
-$pageTitle       = "Roofing Services in Springfield, OR | Rain or Shine Roofing";
-$pageDescription = "Full-service roofing in Springfield, OR. Residential & commercial roofing, asphalt shingles, TPO flat systems, tear-off & replacement, and rot repair. Call (541) 606-3306.";
+$pageTitle       = "Roofing Services Willamette Valley | Rain or Shine Roofing";
+$pageDescription = "Full-service roofing across the Willamette Valley and Oregon Coast. Residential & commercial roofing, asphalt shingles, TPO flat systems, tear-off & replacement, and rot repair. Call (541) 606-3306.";
 $canonicalUrl    = "https://rainorshine-roofing.com/services";
 $ogImage         = "https://i.imgur.com/TcjRAxN.png";
 $currentPage     = "services";
@@ -53,8 +53,8 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
   <section class="page-hero" style="background-image: linear-gradient(135deg, rgba(11,23,52,0.86) 0%, rgba(0,45,122,0.74) 60%, rgba(0,71,187,0.62) 100%), url('https://i.imgur.com/TcjRAxN.png');">
     <div class="page-hero-inner">
       <span class="eyebrow-label">Full-Service Roofing Contractor</span>
-      <h1>Roofing Services in Springfield, OR</h1>
-      <p class="lead">From single-family re-roofs to TPO commercial flat systems, Rain or Shine Roofing handles every phase of roof work across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast &mdash; installation, tear-off, replacement, and repair.</p>
+      <h1>Roofing Services Across the Willamette Valley</h1>
+      <p class="lead">From single-family re-roofs to TPO commercial flat systems, Rain or Shine Roofing handles every phase of roof work across the Willamette Valley and Oregon Coast &mdash; installation, tear-off, replacement, and repair.</p>
       <div class="page-hero-ctas">
         <a href="tel:+15416063306" class="btn-primary">
           <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
@@ -85,7 +85,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="section-header">
         <h2>A Complete Roofing Company &mdash; Not a Specialty Shop</h2>
-        <p>Rain or Shine Roofing is a licensed and insured roofing contractor based in Springfield, Oregon (Oregon State Contractor License #158625), serving homeowners, property managers, and business owners across the Eugene-Springfield area, the Willamette Valley, and the Oregon Coast. From steep-pitch residential roofs to flat commercial systems, Rain or Shine handles every roofing style common across the Pacific Northwest &mdash; the only exception is metal roofing. Steep asphalt shingles, flat TPO commercial systems, full tear-offs, and rot repair: one crew, one license, no subcontracting the hard parts.</p>
+        <p>Rain or Shine Roofing is a licensed and insured roofing contractor (Oregon State Contractor License #158625) serving homeowners, property managers, and business owners across the Willamette Valley and Oregon Coast &mdash; from Albany down to Roseburg and west to Florence. From steep-pitch residential roofs to flat commercial systems, Rain or Shine handles every roofing style common across the Pacific Northwest &mdash; the only exception is metal roofing. Steep asphalt shingles, flat TPO commercial systems, full tear-offs, and rot repair: one crew, one license, no subcontracting the hard parts.</p>
       </div>
 
       <!-- ========== SERVICES CARD GRID ========== -->
@@ -94,7 +94,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <article class="service-card">
           <span class="service-icon"><i data-lucide="home" width="28" height="28" aria-hidden="true"></i></span>
           <h3>Residential Roofing</h3>
-          <p>Full residential roof installations, re-roofs, and repairs for single-family homes across Springfield and Lane County. Steep pitches, complex rooflines, and storm damage specialists.</p>
+          <p>Full residential roof installations, re-roofs, and repairs for single-family homes across the Willamette Valley and Oregon Coast. Steep pitches, complex rooflines, and storm damage specialists.</p>
           <a href="/services/residential-roofing" class="service-link">
             Learn More
             <i data-lucide="arrow-right" width="16" height="16" aria-hidden="true"></i>

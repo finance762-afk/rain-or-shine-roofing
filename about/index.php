@@ -187,7 +187,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <p>When decking is rotten, we tear it out, fix the moisture source, and rebuild. No patch-and-pray, no covering the problem so it surfaces again in two winters.</p>
         </div>
         <div class="card">
-          <span class="card-icon"><i data-lucide="shield" width="28" height="28" aria-hidden="true"></i></span>
+          <span class="card-icon"><?php include $_SERVER['DOCUMENT_ROOT'] . '/includes/flag-icon.php'; ?></span>
           <h3>Veteran-Owned Business</h3>
           <p>Tim is a U.S. military veteran. Rain or Shine Roofing is veteran-owned and operated &mdash; bringing the same discipline, reliability, and commitment to every job.</p>
         </div>
@@ -210,14 +210,14 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     <div class="container">
       <div class="split">
         <div class="img-reveal">
-          <img src="https://i.imgur.com/dbzzO8P.png" alt="Completed Rain or Shine Roofing project showing new asphalt shingle roof on Oregon home" width="900" height="700" loading="lazy">
+          <img src="https://i.imgur.com/sfxIMf3.jpeg" alt="Tim standing on a roof mid-install during a Willamette Valley project" width="900" height="1100" loading="lazy">
         </div>
         <div>
           <span class="eyebrow-label">The Rain or Shine Standard</span>
           <h2 class="section-title">Finished the Right Way &mdash; Every Time</h2>
           <p class="section-subtitle">Oregon weather is unforgiving. A roof that looks finished isn&rsquo;t the same as a roof that performs in February.</p>
           <p>Every Rain or Shine install follows the same standard: synthetic underlayment, ice-and-water shield at eaves and penetrations, proper drip edge and flashing, ridge ventilation to match the soffit intake, and manufacturer-approved fasteners. The details that water finds in a Pacific Northwest winter are the ones we get right on the dry days.</p>
-          <p>Cleanup is the same story. Magnetic nail sweeps, a final property walk-through, and a face-to-face handoff at the end of the job. The kitchen is the last place we stand before we leave.</p>
+          <p>Cleanup is the same story. Magnetic nail sweeps, a final property walk-through, and a face-to-face handoff at the end of the job &mdash; so the last thing you see is the same roofer who walked the property on day one.</p>
           <p><a href="/service-area" class="btn-secondary" style="margin-top: var(--space-md);">
             <i data-lucide="map" width="16" height="16" aria-hidden="true"></i>
             View Our Service Area
