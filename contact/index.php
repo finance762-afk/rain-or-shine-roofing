@@ -203,28 +203,6 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
     </div>
   </section>
 
-  <!-- ========== MAP ========== -->
-  <section class="bg-alt">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow-label">Where We Work</span>
-        <h2>Serving the Willamette Valley &amp; Oregon Coast</h2>
-        <p>Based in Springfield, Oregon &mdash; covering a 100-mile radius from the Oregon Coast through the I-5 corridor and across the southern Willamette Valley.</p>
-      </div>
-      <div class="map-embed">
-        <iframe
-          src="https://maps.google.com/maps?q=Willamette+Valley,+Oregon&ll=43.95,-123.35&z=8&output=embed"
-          width="100%"
-          height="450"
-          style="border:0;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"
-          title="Rain or Shine Roofing service area map &mdash; Willamette Valley and Oregon Coast"></iframe>
-      </div>
-    </div>
-  </section>
-
   <!-- ========== CLOSING CTA ========== -->
   <section class="closing-cta">
     <h2>Rain or Shine, We&rsquo;re Ready</h2>
