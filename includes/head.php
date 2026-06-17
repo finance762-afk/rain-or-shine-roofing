@@ -99,6 +99,7 @@ $noindex         = $noindex         ?? false;
 <?php echo $schemaMarkup; ?>
 </script>
 <?php endif; ?>
+<?php require_once __DIR__ . '/edit-mode.php'; ?>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
