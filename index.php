@@ -143,19 +143,77 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
 <main id="main-content">
 
   <!-- ========== HERO ========== -->
-  <section class="hero" style="background-image: linear-gradient(180deg, rgba(10,23,58,0.55) 0%, rgba(10,23,58,0.78) 100%), url('https://i.imgur.com/TcjRAxN.png');">
-    <div class="hero-inner">
-      <h1>The Willamette Valley&rsquo;s 24/7 Roofing Contractor</h1>
-      <p class="hero-subtitle">Residential &amp; commercial roofing across the Willamette Valley and Oregon Coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
-      <div class="hero-cta-row">
-        <a href="tel:+15416063306" class="btn-primary">
-          <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
-          Call (541) 606-3306
-        </a>
-        <a href="/contact" class="btn-secondary on-dark">
-          <i data-lucide="clipboard-check" width="18" height="18" aria-hidden="true"></i>
-          Free Estimate
-        </a>
+  <section class="hero hero--with-form" style="background-image: linear-gradient(180deg, rgba(10,23,58,0.55) 0%, rgba(10,23,58,0.78) 100%), url('https://i.imgur.com/TcjRAxN.png');">
+    <div class="hero-content-grid">
+      <div class="hero__copy">
+        <h1>The Willamette Valley&rsquo;s 24/7 Roofing Contractor</h1>
+        <p class="hero-subtitle">Residential &amp; commercial roofing across the Willamette Valley and Oregon Coast &mdash; from steep-pitch shingles to flat TPO systems.</p>
+        <div class="hero-cta-row">
+          <a href="tel:+15416063306" class="btn-primary">
+            <i data-lucide="phone" width="18" height="18" aria-hidden="true"></i>
+            Call (541) 606-3306
+          </a>
+        </div>
+      </div>
+
+      <div class="hero__form-card">
+        <h3>Get a Free Estimate</h3>
+        <span class="form-subtitle">No pressure. No upsells.</span>
+        <p class="form-intro">We&rsquo;ll schedule a thorough on-site inspection and provide a detailed written proposal. Free, no-pressure consultation &mdash; just straight answers about your roof.</p>
+
+        <form action="https://formsubmit.co/tim@expertroofer.net" method="POST" novalidate>
+          <input type="hidden" name="_next" value="https://rainorshine-roofing.com/thank-you">
+          <input type="hidden" name="_captcha" value="false">
+          <input type="text" name="_honey" style="display:none !important" tabindex="-1" autocomplete="off" aria-hidden="true">
+          <input type="hidden" name="_template" value="table">
+          <input type="hidden" name="_subject" value="New Lead from Rain or Shine Roofing Website (Hero Form)">
+          <input type="hidden" name="_cc" value="CustomerService@pageoneinsights.com">
+
+          <div class="form-group">
+            <input type="text" id="hero-name" name="name" placeholder=" " required autocomplete="name">
+            <label for="hero-name">Your Name</label>
+          </div>
+
+          <div class="form-group">
+            <input type="tel" id="hero-phone" name="phone" placeholder=" " required autocomplete="tel">
+            <label for="hero-phone">Phone Number</label>
+          </div>
+
+          <div class="form-group">
+            <input type="email" id="hero-email" name="email" placeholder=" " autocomplete="email">
+            <label for="hero-email">Email (Optional)</label>
+          </div>
+
+          <div class="form-group">
+            <select id="hero-service" name="service" required>
+              <option value="" disabled selected hidden></option>
+              <option value="Residential Roofing">Residential Roofing</option>
+              <option value="Commercial Roofing">Commercial Roofing</option>
+              <option value="Asphalt Shingles">Asphalt Shingles</option>
+              <option value="TPO Flat Roofing">TPO Flat Roofing</option>
+              <option value="Roof Tear-Off &amp; Replacement">Roof Tear-Off &amp; Replacement</option>
+              <option value="Roof Rot Repair">Roof Rot Repair</option>
+              <option value="Emergency Repair">Emergency Repair</option>
+              <option value="Other">Other</option>
+            </select>
+            <label for="hero-service">Service Needed</label>
+          </div>
+
+          <div class="form-field--checkbox tcpa-consent">
+            <input type="checkbox" name="tcpa_consent" id="hero-tcpa" required>
+            <label for="hero-tcpa">
+              By checking this box, I consent to receive phone calls and SMS text messages from
+              Rain or Shine Roofing about my project request. Consent is not a condition of purchase.
+              Message and data rates may apply. Reply STOP to opt out at any time.
+              <a href="/privacy-policy/">See Privacy Policy</a>.
+            </label>
+          </div>
+
+          <button type="submit" class="btn-primary" style="width: 100%;">
+            <i data-lucide="send" width="18" height="18" aria-hidden="true"></i>
+            Get My Free Estimate
+          </button>
+        </form>
       </div>
     </div>
   </section>
