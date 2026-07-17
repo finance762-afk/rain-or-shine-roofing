@@ -473,6 +473,8 @@ p { text-wrap: pretty; }
   max-width: var(--max-width);
   margin: 0 auto;
   width: 100%;
+  position: relative;
+  z-index: 2;
 }
 .hero--with-form .hero__copy {
   max-width: 540px;
