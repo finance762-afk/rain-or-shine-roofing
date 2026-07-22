@@ -161,7 +161,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
         <span class="form-subtitle">No pressure. No upsells.</span>
         <p class="form-intro">We&rsquo;ll schedule a thorough on-site inspection and provide a detailed written proposal. Free, no-pressure consultation &mdash; just straight answers about your roof.</p>
 
-        <form action="https://formsubmit.co/tim@expertroofer.net" method="POST" novalidate>
+        <form action="https://db.pageone.cloud/functions/v1/leads/rain-or-shine-roofing" method="POST" novalidate>
           <input type="hidden" name="_next" value="https://rainorshine-roofing.com/thank-you">
           <input type="hidden" name="_captcha" value="false">
           <input type="text" name="_honey" style="display:none !important" tabindex="-1" autocomplete="off" aria-hidden="true">

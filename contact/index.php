@@ -107,7 +107,7 @@ include $_SERVER['DOCUMENT_ROOT'] . '/includes/nav.php';
           <h2 class="section-title">Tell Us About Your Roof</h2>
           <p class="section-subtitle">Send a quick message with the details and Tim will follow up with scheduling and next steps. Same-day response on weekdays.</p>
 
-          <form action="https://formsubmit.co/tim@expertroofer.net" method="POST" class="contact-form" novalidate>
+          <form action="https://db.pageone.cloud/functions/v1/leads/rain-or-shine-roofing" method="POST" class="contact-form" novalidate>
             <input type="hidden" name="_next" value="https://rainorshine-roofing.com/thank-you">
             <input type="hidden" name="_captcha" value="false">
             <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off">
